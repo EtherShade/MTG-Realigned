@@ -1,0 +1,1941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>TEL</name>
+      <longname>Histories of Teladraan</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>RA01 AnimaTech Living Battery</name>
+      <set rarity="rare">TEL</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>6</manacost>
+        <cost>6</cost>
+        <mana>6</mana>
+        <cmc>6</cmc>
+        <mv>6</mv>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ensoul Avatar, Ensoul Avatar, Ensoul Avatar (When this creature enters, you may exile an Avatar you control until this leaves the battlefield. If you do, this creature gets +2/+1 gains the exiled card’s abilities and is a Transmortal and an Avatar in addition to its other types. This stacks.)
+Defender, haste
+{T}: For each card exiled with AnimaTech Living Battery, add CC and you get {E}.</text>
+    </card>
+    <card>
+      <name>RM07 Kzaandapocl, Uncapturable</name>
+      <set rarity="rare">TEL</set>
+      <prop>
+        <colors>UR</colors>
+        <color>UR</color>
+        <manacost>10UR</manacost>
+        <cost>10UR</cost>
+        <mana>10UR</mana>
+        <cmc>12</cmc>
+        <mv>12</mv>
+        <type>Legendary Creature - Elder Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>12/12</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When you cast Kzaandapocl, Uncapturable, create an amount of Treasure tokens equal to the amount of mana spent to cast him.
+If Kzaandapocl, Uncapturable would be exiled, put him into your hand instead.
+Projection 2UR (If you cast this spell for its projection cost, it’s a 2/2 Avatar enchantment in addition to its other types. If it would die, instead return it to your hand, then discard a card.)</text>
+    </card>
+    <card>
+      <name>CL01 Spire of Frost</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Spire of Frost enters tapped.
+When Spire of Frost enters, choose one —
+• Past — You gain 2 life.
+• Future — You get {E}.
+{T}: Add {W} or {U}.</text>
+    </card>
+    <card>
+      <name>CL02 Spire of Darkness</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Spire of Darkness enters tapped.
+When Spire of Darkness enters, choose one —
+• Past — You gain 2 life.
+• Future — You get {E}.
+{T}: Add {U} or {B}.</text>
+    </card>
+    <card>
+      <name>CL03 Spire of Blood</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Spire of Blood enters tapped.
+When Spire of Blood enters, choose one —
+• Past — You gain 2 life.
+• Future — You get {E}.
+{T}: Add {B} or {R}.</text>
+    </card>
+    <card>
+      <name>CL04 Spire of Fire</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Spire of Fire enters tapped.
+When Spire of Fire enters, choose one —
+• Past — You gain 2 life.
+• Future — You get {E}.
+{T}: Add {R} or {G}.</text>
+    </card>
+    <card>
+      <name>CL05 Spire of Life</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Spire of Life enters tapped.
+When Spire of Life enters, choose one —
+• Past — You gain 2 life.
+• Future — You get {E}.
+{T}: Add {G} or {W}.</text>
+    </card>
+    <card>
+      <name>CL06 Spire of Bone</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Spire of Bone enters tapped.
+When Spire of Bone enters, choose one —
+• Past — You gain 2 life.
+• Future — You get {E}.
+{T}: Add {W} or {B}.</text>
+    </card>
+    <card>
+      <name>CL07 Spire of Thunder</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Spire of Thunder enters tapped.
+When Spire of Thunder enters, choose one —
+• Past — You gain 2 life.
+• Future — You get {E}.
+{T}: Add {U} or {R}.</text>
+    </card>
+    <card>
+      <name>CL08 Spire of Death</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Spire of Death enters tapped.
+When Spire of Death enters, choose one —
+• Past — You gain 2 life.
+• Future — You get {E}.
+{T}: Add {B} or {G}.</text>
+    </card>
+    <card>
+      <name>CL09 Spire of Light</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Spire of Light enters tapped.
+When Spire of Light enters, choose one —
+• Past — You gain 2 life.
+• Future — You get {E}.
+{T}: Add {R} or {W}.</text>
+    </card>
+    <card>
+      <name>CL10 Spire of Water</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Spire of Water enters tapped.
+When Spire of Water enters, choose one —
+• Past — You gain 2 life.
+• Future — You get {E}.
+{T}: Add {G} or {U}.</text>
+    </card>
+    <card>
+      <name>UL01 Quartzpull Factory</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Quartzpull Factory enters tapped.
+{T}: Add {G}, {W}, or {U}.
+{4}, Sacrifice Quartzpull Factory: You get EEE.</text>
+    </card>
+    <card>
+      <name>UL02 Sapphirepull Factory</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Sapphirepull Factory enters tapped.
+{T}: Add {W}, {U}, or {B}.
+{4}, Sacrifice Sapphirepull Factory: You get EEE.</text>
+    </card>
+    <card>
+      <name>UL03 Onyxpull Factory</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Onyxpull Factory enters tapped.
+{T}: Add {U}, {B}, or {R}.
+{4}, Sacrifice Onyxpull Factory: You get EEE.</text>
+    </card>
+    <card>
+      <name>UL04 Rubypull Factory</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Rubypull Factory enters tapped.
+{T}: Add {B}, {R}, or {G}.
+{4}, Sacrifice Rubypull Factory: You get EEE.</text>
+    </card>
+    <card>
+      <name>UL05 Emeraldpull Factory</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Emeraldpull Factory enters tapped.
+{T}: Add {R}, {G}, or {W}.
+{4}, Sacrifice Emeraldpull Factory: You get EEE.</text>
+    </card>
+    <card>
+      <name>UL06 Quartzpush Factory</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Quartzpush Factory enters tapped.
+{T}: Add {R}, {W}, or {B}.
+{4}, Sacrifice Quartzpush Factory: You get EEE.</text>
+    </card>
+    <card>
+      <name>UL07 Sapphirepush Factory</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Sapphirepush Factory enters tapped.
+{T}: Add {G}, {U}, or {R}.
+{4}, Sacrifice Sapphirepush Factory: You get EEE.</text>
+    </card>
+    <card>
+      <name>UL08 Onyxpush Factory</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Onyxpush Factory enters tapped.
+{T}: Add {W}, {B}, or {G}.
+{4}, Sacrifice Onyxpush Factory: You get EEE.</text>
+    </card>
+    <card>
+      <name>UL09 Rubypush Factory</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Rubypush Factory enters tapped.
+{T}: Add {U}, {R}, or {W}.
+{4}, Sacrifice Rubypush Factory: You get EEE.</text>
+    </card>
+    <card>
+      <name>UL10 Emeraldpush Factory</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Emeraldpush Factory enters tapped.
+{T}: Add {B}, {G}, or {U}.
+{4}, Sacrifice Emeraldpush Factory: You get EEE.</text>
+    </card>
+    <card>
+      <name>RR01 Melesei, Crimson Vengeance</name>
+      <set rarity="rare">TEL</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Legendary Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Madness costs you pay costs BR (or {2}) less.</text>
+    </card>
+    <card>
+      <name>UM03 Melesei, Lone Stalkerknight</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors>BR</colors>
+        <color>BR</color>
+        <manacost>BR</manacost>
+        <cost>BR</cost>
+        <mana>BR</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Legendary Creature - Human Knight Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Madness {B/R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+Whenever you cast this spell or another spell for its madness cost, Melesei, Lone Stalkerknight deals 1 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>MR02 Melesei, the Godslayer</name>
+      <set rarity="mythic">TEL</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>3R</manacost>
+        <cost>3R</cost>
+        <mana>3R</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Legendary Creature - Transmortal Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>To Slay a God — When Melesei, the Godslayer enters, she deals 7 damage to another target creature. If that creature is an Avatar, Transmortal, Elder, or God, discard your hand, then draw seven cards.</text>
+    </card>
+    <card>
+      <name>UM13 Legend of the Godhunter</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors>BR</colors>
+        <color>BR</color>
+        <manacost>3BR</manacost>
+        <cost>3BR</cost>
+        <mana>3BR</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II, III — Choose one —
+• Draw a card, then discard a card.
+• Search your library for a card named Melesei, Lone Stalkerknight, reveal it, put it into your hand, then shuffle.
+• Search your library for a card named Melesei, Crimson Vengeance, reveal it, put it into your hand, then shuffle.
+• Search your library for a card named Melesei, the Godslayer, reveal it, put it into your hand, then shuffle.
+​
+​</text>
+    </card>
+    <card>
+      <name>RU01 Valla, Master Historian</name>
+      <set rarity="rare">TEL</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add CC. Spend this mana only to cast historic spells or activate abilities of historic permanents. (Artifacts, legendaries, and Sagas are historic.)
+Whenever an opponent attacks, target attacking creature gets -2/-0 until end of turn.</text>
+    </card>
+    <card>
+      <name>UM01 Valla, Amateur Scribe</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors>WU</colors>
+        <color>WU</color>
+        <manacost>1WU</manacost>
+        <cost>1WU</cost>
+        <mana>1WU</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+{T}: The next historic spell you cast this turn has improvise. (Artifacts, legendaries, and Sagas are historic. Your artifacts can help cast this spell. Each artifact you tap after you’re done activating mana abilities pays for {1}.)</text>
+    </card>
+    <card>
+      <name>MU02 Valla, Eternal Observer</name>
+      <set rarity="mythic">TEL</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Legendary Creature - Transmortal Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>History Repeats — Whenever you cast a historic spell, investigate. (Artifacts, legendaries, and Sagas are historic. To investigate, create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)</text>
+    </card>
+    <card>
+      <name>UM11 The Path of History</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors>WU</colors>
+        <color>WU</color>
+        <manacost>3WU</manacost>
+        <cost>3WU</cost>
+        <mana>3WU</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II, III — Choose one —
+• Investigate.
+• Search your library for a card named Valla, Amateur Scribe, reveal it, put it into your hand, then shuffle.
+• Search your library for a card named Valla, Master Historian, reveal it, put it into your hand, then shuffle.
+• Search your library for a card named Valla, Eternal Observer, reveal it, put it into your hand, then shuffle.
+​
+​</text>
+    </card>
+    <card>
+      <name>RU02 The Moon Turns Silver</name>
+      <set rarity="rare" splitterPath="/RU02 The Moon Turns Silver.jpg" >TEL</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Scry 1.
+II — Draw a card.
+III — Exile this enchantment, then return it to the battlefield transformed under its owner’s control.
+---
+(Back): The Moon, Silverified</text>
+      <related attach="transform">The Moon, Silverified</related>
+    </card>
+    <card>
+      <name>The Moon, Silverified</name>
+      <set rarity="rare" splitterPath="/The Moon, Silverified.jpg" >TEL</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Legendary Enchantment</type>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Lands you control are Islands.
+3U, Sacrifice The Moon, Silverified: Draw a card.
+---
+(Front): RU02 The Moon Turns Silver</text>
+      <related attach="transform">RU02 The Moon Turns Silver</related>
+    </card>
+    <card>
+      <name>RM17 Zrakelia, Mother of Thunder</name>
+      <set rarity="rare">TEL</set>
+      <prop>
+        <colors>WUR</colors>
+        <color>WUR</color>
+        <manacost>3URW</manacost>
+        <cost>3URW</cost>
+        <mana>3URW</mana>
+        <cmc>6</cmc>
+        <mv>6</mv>
+        <type>Legendary Creature - Elder Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you cast a spell, put a lightning counter on Zrakelia. If Zrakelia isn’t an Avatar, put two lightning counters on it instead. Then, you may remove three lightning counters from this. If you do, copy that spell.
+Projection URW (If you cast this spell for its projection cost, it’s a 2/2 Avatar enchantment in addition to its other types. If it would die, instead return it to your hand, then discard a card.)</text>
+    </card>
+    <card>
+      <name>MW01 Avatar of the White Immortal</name>
+      <set rarity="mythic">TEL</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>WWW</manacost>
+        <cost>WWW</cost>
+        <mana>WWW</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Legendary Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures have double strike.</text>
+    </card>
+    <card>
+      <name>MU01 Avatar of the Blue Immortal</name>
+      <set rarity="mythic">TEL</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>UUU</manacost>
+        <cost>UUU</cost>
+        <mana>UUU</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Legendary Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures have “This creature can’t attack unless its controller pays {1}.”</text>
+    </card>
+    <card>
+      <name>MB01 Avatar of the Black Immortal</name>
+      <set rarity="mythic">TEL</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>BBB</manacost>
+        <cost>BBB</cost>
+        <mana>BBB</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Legendary Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures have decayed. (They can’t block. When one of them attacks, sacrifice it at end of combat.)</text>
+    </card>
+    <card>
+      <name>MR01 Avatar of the Red Immortal</name>
+      <set rarity="mythic">TEL</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>RRR</manacost>
+        <cost>RRR</cost>
+        <mana>RRR</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Legendary Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures have haste.</text>
+    </card>
+    <card>
+      <name>MG01 Avatar of the Green Immortal</name>
+      <set rarity="mythic">TEL</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>GGG</manacost>
+        <cost>GGG</cost>
+        <mana>GGG</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Legendary Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures have trample.</text>
+    </card>
+    <card>
+      <name>UM02 Vecdak, Soulwalker Adept</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors>UB</colors>
+        <color>UB</color>
+        <manacost>2UB</manacost>
+        <cost>2UB</cost>
+        <mana>2UB</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Legendary Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Avatars you control have flying.
+Projection 1UB (If you cast this spell for its projection cost, it’s a 2/2 Avatar enchantment in addition to its other types. If it would die, instead return it to your hand, then discard a card.)</text>
+    </card>
+    <card>
+      <name>UM12 Forbidden Soulwalking</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors>UB</colors>
+        <color>UB</color>
+        <manacost>1UB</manacost>
+        <cost>1UB</cost>
+        <mana>1UB</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — You lose 4 life.
+II — Draw two cards.
+III — Projection costs you pay this turn cost {1} less.</text>
+    </card>
+    <card>
+      <name>UM04 Murella, Essence Trafficker</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors>RG</colors>
+        <color>RG</color>
+        <manacost>1RG</manacost>
+        <cost>1RG</cost>
+        <mana>1RG</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Legendary Creature - Transmortal Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add RG. Spend this mana only to cast spells with Ensoul.
+Other Transmortal creatures you control get +1/+1.</text>
+    </card>
+    <card>
+      <name>UM14 Undying Greed</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors>RG</colors>
+        <color>RG</color>
+        <manacost>2RG</manacost>
+        <cost>2RG</cost>
+        <mana>2RG</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — You gain X life, where X is the number of Transmortals you control.
+II — Undying Greed deals X damage to each opponent, where X is the number of Tranmortals you control.
+III — Transmortal creatures you control get +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>UM05 Jallia, Dryad&apos;s Voice</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors>WG</colors>
+        <color>WG</color>
+        <manacost>3GW</manacost>
+        <cost>3GW</cost>
+        <mana>3GW</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Legendary Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Jallia, Dryad’s Voice enters, draw a card for each enchantment you control.
+Whenever an enchantment you control enters, draw a card.</text>
+    </card>
+    <card>
+      <name>UM15 Voices of the Woods</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors>WG</colors>
+        <color>WG</color>
+        <manacost>GW</manacost>
+        <cost>GW</cost>
+        <mana>GW</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+You gain 4 life.
+I — Create a 1/1 colorless Human creature token.
+II, III — Put X +1/+1 counters on target creature, where X is the number of enchantments you control.</text>
+    </card>
+    <card>
+      <name>UM06 Bureg, Priest of Angelicism</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors>WB</colors>
+        <color>WB</color>
+        <manacost>WB</manacost>
+        <cost>WB</cost>
+        <mana>WB</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Legendary Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you sacrifice an enchantment, you gain 1 life and each opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>UM16 The Angelic Chronicles</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors>WB</colors>
+        <color>WB</color>
+        <manacost>WB</manacost>
+        <cost>WB</cost>
+        <mana>WB</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II, III — You may sacrifice an enchantment. If you do, create two 1/1 colorless Human creature tokens.
+​
+​</text>
+    </card>
+    <card>
+      <name>UM07 Holgar, Devout Industrialist</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors>UR</colors>
+        <color>UR</color>
+        <manacost>1UR</manacost>
+        <cost>1UR</cost>
+        <mana>1UR</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Legendary Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you attack, you get {E} (an energy counter) for each attacking creature.
+Pay EEE: Exile the top card of your library. You may play it this turn.</text>
+    </card>
+    <card>
+      <name>UM17 Artificial Tempest</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors>UR</colors>
+        <color>UR</color>
+        <manacost>2UR</manacost>
+        <cost>2UR</cost>
+        <mana>2UR</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+You get {E} (an energy counter).
+You get EE.
+I — You may pay any amount of {E}. Artificial Tempest deals twice that much damage to each opponent. Draw that many cards, then discard that many cards.</text>
+    </card>
+    <card>
+      <name>UM08 Bahab, Lich Returner</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors>BG</colors>
+        <color>BG</color>
+        <manacost>4BG</manacost>
+        <cost>4BG</cost>
+        <mana>4BG</mana>
+        <cmc>6</cmc>
+        <mv>6</mv>
+        <type>Legendary Creature - Transmortal Zombie Human </type>
+        <maintype>Creature</maintype>
+        <pt>6/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Bahab, Lich Returner enters, return target card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>UM18 Reanimation Rites</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors>BG</colors>
+        <color>BG</color>
+        <manacost>3BG</manacost>
+        <cost>3BG</cost>
+        <mana>3BG</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Put two +1/+1 counters on target creature.
+Return target noncreature card from your graveyard to your hand.
+III — Return target creature card from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>UM09 Agrares, Aggressive Bodyguard</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors>WR</colors>
+        <color>WR</color>
+        <manacost>1RW</manacost>
+        <cost>1RW</cost>
+        <mana>1RW</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Legendary Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Agrares, Aggressive Bodyguard enters, it deals 2 damage to each opponent and you gain 2 life.
+When Agrares, Aggressive Bodyguard leaves the battlefield, draw a card.</text>
+    </card>
+    <card>
+      <name>UM19 Visions in the Flames</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors>WR</colors>
+        <color>WR</color>
+        <manacost>RW</manacost>
+        <cost>RW</cost>
+        <mana>RW</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Exile target creature, then return it to the battlefield under its owner’s control.
+II — Visions in the Flames deals 1 damage to any target and you gain 1 life.
+III — You may sacrifice a creature. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>UM10 Vasgar the Duplicitous</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors>UG</colors>
+        <color>UG</color>
+        <manacost>1GU</manacost>
+        <cost>1GU</cost>
+        <mana>1GU</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>The “legend rule” doesn’t apply to permanents you control named Vasgar the Duplicitous.
+If you would draw a card from an empty library, create two tokens that are copies of Vasgar the Duplicitous instead.</text>
+    </card>
+    <card>
+      <name>UM20 Tale of the Enchanted Ocean</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors>UG</colors>
+        <color>UG</color>
+        <manacost>3GU</manacost>
+        <cost>3GU</cost>
+        <mana>3GU</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Mill five cards.
+II — Return target card from your graveyard to your hand.
+III — Draw two cards.</text>
+    </card>
+    <card>
+      <name>CW03 Unimportant Quest</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Create a 1/1 colorless Human creature token.
+III — Put a +1/+1 counter on target creature.
+​</text>
+    </card>
+    <card>
+      <name>CW01 Young Geist</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Young Geist leaves the battlefield, choose one —
+• Draw a card.
+• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>CW02 Automatic Inspector</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Automatic Inspector enters, you get {E} (an energy counter). Investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)
+Pay EE: Put a +1/+1 counter on target creature. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>CW04 Reappearing Medic</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Creature - Transmortal Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Rebirth +1/+1 (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner’s control with a +1/+1 counter on it.)</text>
+    </card>
+    <card>
+      <name>CW05 Watching Whitebird</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Watching Whitebird or another creature you control leaves the battlefield, you gain 1 life.</text>
+    </card>
+    <card>
+      <name>CW06 Battery Carrier</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Battery Carrier attacks, you get {E} (an energy counter).
+Pay EE: Create a 1/1 colorless Human creature token.</text>
+    </card>
+    <card>
+      <name>CW07 Weakened Soulwalker</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Weakened Soulwalker gets -0/-1.
+Projection 1W (If you cast this spell for its projection cost, it’s a 2/2 Avatar enchantment in addition to its other types. If it would die, instead return it to your hand, then discard a card.)</text>
+    </card>
+    <card>
+      <name>CW08 Auric Returner</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Creature - Transmortal Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+You may cast Auric Returner from your graveyard by sacrificing an enchantment in addition to paying its other costs.</text>
+    </card>
+    <card>
+      <name>CW09 Bird Connoisseur</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>3W</manacost>
+        <cost>3W</cost>
+        <mana>3W</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ensoul Bird (When this creature enters, you may exile a Bird you control until this leaves the battlefield. If you do, this creature gets +2/+1 and gains the exiled card’s abilities and is a Transmortal and a Bird in addition to its other types.)</text>
+    </card>
+    <card>
+      <name>CW10 Devout Scribe</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>3W</manacost>
+        <cost>3W</cost>
+        <mana>3W</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a historic permanent you control enters, put a +1/+1 counter on Devout Scribe. (Artifacts, legendaries, and Sagas are historic.)</text>
+    </card>
+    <card>
+      <name>CW11 Holy Soulwalker</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>4W</manacost>
+        <cost>4W</cost>
+        <mana>4W</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Historic creatures and enchantment creatures you control get +1/+0. (Artifacts, legendaries, and Sagas are historic.)
+Projection 2W (If you cast this spell for its projection cost, it’s a 2/2 Avatar enchantment in addition to its other types. If it would die, instead return it to your hand, then discard a card.)</text>
+    </card>
+    <card>
+      <name>CW12 Angelic Emissary</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>5W</manacost>
+        <cost>5W</cost>
+        <mana>5W</mana>
+        <cmc>6</cmc>
+        <mv>6</mv>
+        <type>Creature - Angel Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Ensoul Cleric (When this creature enters, you may exile a Cleric you control until this leaves the battlefield. If you do, this creature gets +2/+1 and gains the exiled card’s abilities and is a Transmortal and a Cleric in addition to its other types.)</text>
+    </card>
+    <card>
+      <name>CW13 Phoenix Flare</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Phoenix Flare deals 2 damage to target attacking or blocking creature.
+Whenever a legendary creature enters under your control, if Phoenix Flare is in your graveyard, you may exile Phoenix Flare from your graveyard. If you do, you gain 2 life.</text>
+    </card>
+    <card>
+      <name>CW14 Integrated Purity</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+At the beginning of combat on enchanted creature’s controller’s turn, tap enchanted creature. You get {E}.
+2W or EEEE, Sacrifice Integrated Purity: Exile enchanted creature.</text>
+    </card>
+    <card>
+      <name>CW15 Desoul</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature with power 4 or greater. The next time a creature enters but wasn’t cast this turn, destroy that creature.</text>
+    </card>
+    <card>
+      <name>CW16 Dryadic Eminence</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Enchant creature
+Enchanted creature gets +1/+2.</text>
+    </card>
+    <card>
+      <name>CW17 Inventor&apos;s Armor</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1.
+Whenever equipped creature attacks, you get {E} (an energy counter).
+Equip—Pay {2} or EE.</text>
+    </card>
+    <card>
+      <name>CW18 Crusade of Past and Future</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Creatures you control get +1/+2 until end of turn.
+• Destroy target enchantment.
+• Destroy target artifact.</text>
+    </card>
+    <card>
+      <name>CW19 Essenceshift</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target nonland permanent you control, then return it to the battlefield under your control.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>CU01 Inverted Soulwalker</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Creature - Human Rogue Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Inverted Soulwalker enters, surveil 2.
+Projection 2U (If you cast this spell for its projection cost, it’s a 2/2 Avatar enchantment in addition to its other types. If it would die, instead return it to your hand, then discard a card.)</text>
+    </card>
+    <card>
+      <name>CU02 AnimaTech OmenBirdBot</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Artifact Creature - Bird Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Pay four in any combination of {E} and {1}: Draw a card.</text>
+    </card>
+    <card>
+      <name>CU12 Schemes and Counterschemes</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Flash
+Counter target spell unless its controller pays {2}. If they do, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+I, II, III — Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>CU04 Opting Arcanite</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Enchantment Creature - Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Opting Arcanite enters, scry 1, then draw a card.</text>
+    </card>
+    <card>
+      <name>CU03 Eye-for-Eyeling</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Creature - Transmortal Homunculus </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Rebirth defender (When this creature dies, if it had no defender counters on it, return it to the battlefield under its owner’s control with a defender counter on it.)
+When Eye-for-Eyeling enters and when it leaves the battlefield, mill two cards.</text>
+    </card>
+    <card>
+      <name>RU02 Wanderer of Endless Stories</name>
+      <set rarity="rare">TEL</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Creature - Transmortal Human Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Rebirth lore (When this creature dies, if it had no lore counters on it, return it to the battlefield under its owner’s control with a lore counter on it.)
+{T}: Move a counter from Wanderer of Endless Stories to another target permanent you control.</text>
+    </card>
+    <card>
+      <name>UU02 Tuning Arcanite</name>
+      <set rarity="uncommon">TEL</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Enchantment Creature - Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Tuning Arcanite enters, you get EE (two energy counters). Draw a card.</text>
+    </card>
+    <card>
+      <name>CU05 AnimaTech SifterBot</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+1U, {T}: Draw X cards, then discard X cards, where X is half the number of historic permanents you control, rounded up. (Artifacts, legendaries, and Sagas are historic.)</text>
+    </card>
+    <card>
+      <name>CU06 Wingspan Prodigy</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>3U</manacost>
+        <cost>3U</cost>
+        <mana>3U</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Wingspan Prodigy enters, you get {E}.
+Whenever Wingspan Prodigy attacks, you may pay {E}. If you do, it gets +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>RM20 Leviatron, Augmented</name>
+      <set rarity="rare">TEL</set>
+      <prop>
+        <colors>URG</colors>
+        <color>URG</color>
+        <manacost>4GUR</manacost>
+        <cost>4GUR</cost>
+        <mana>4GUR</mana>
+        <cmc>7</cmc>
+        <mv>7</mv>
+        <type>Legendary Artifact Creature - Elder Leviathan </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When you cast Leviatron, Augmented, you mill X cards and get X {E} (energy counters), where X is the amount of mana spent to cast it.
+Exile two cards from your graveyard: You get {E}.
+Pay EE: Mill a card.
+Projection GUR (If you cast this spell for its projection cost, it’s a 2/2 Avatar enchantment in addition to its other types. If it would die, instead return it to your hand, then discard a card.)</text>
+    </card>
+    <card>
+      <name>CU07 Ruin Delver</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>3U</manacost>
+        <cost>3U</cost>
+        <mana>3U</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Ruin Delver enters, put a +1/+1 counter on it for each noncreature card in your graveyard.
+7UU: Return target historic card from your graveyard to your hand. This ability costs {X} less to activate, where X is Ruin Delver’s power. (Artifacts, legendaries, and Sagas are historic.)</text>
+    </card>
+    <card>
+      <name>CU08 Arcanite Absorber</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>4U</manacost>
+        <cost>4U</cost>
+        <mana>4U</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Creature - Sphinx </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Ensoul Wizard (When this creature enters, you may exile a Wizard you control until this leaves the battlefield. If you do, this creature gets +2/+1 and gains the exiled card’s abilities and is a Transmortal and a Wizard in addition to its other types.)</text>
+    </card>
+    <card>
+      <name>CU09 Prototype Projector</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>5U</manacost>
+        <cost>5U</cost>
+        <mana>5U</mana>
+        <cmc>6</cmc>
+        <mv>6</mv>
+        <type>Artifact Creature - Construct Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prototype Projector enters with a +1/+1 counter.
+Projection 3U (If you cast this spell for its projection cost, it’s a 2/2 Avatar enchantment in addition to its other types. If it would die, instead return it to your hand, then discard a card.)</text>
+    </card>
+    <card>
+      <name>CU10 Flickering Bauble</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Flickering Bauble enters, choose one —
+• You get {E}.
+• Put a +1/+1 counter on target creature.
+• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+2U: Exile Flickering Bauble, then return it to the battlefield under its owner’s control.</text>
+    </card>
+    <card>
+      <name>CU11 Fabled Negation</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>1UU</manacost>
+        <cost>1UU</cost>
+        <mana>1UU</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell.
+Whenever a legendary creature enters under your control, if Fabled Negation is in your graveyard, you may exile Fabled Negation from your graveyard. If you do, surveil 1, then draw a card. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+    </card>
+    <card>
+      <name>CU13 Integrated Arcana</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Integrated Arcana enters, tap enchanted creature. You get EE.
+Enchanted creature doesn’t untap during its controller’s untap step.
+At the beginning of your upkeep, sacrifice Integrated Arcana unless you pay {E}.</text>
+    </card>
+    <card>
+      <name>CU14 Monotone Research</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, reveal two other blue cards from your hand or pay {1}.
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>CU15 Trifold Choice</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Surveil 1, then draw a card. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)
+Pay {1} or {E}, Discard Trifold Choice: Search your library for a land with a mana ability that can add {U}, reveal it, and put it into your hand.</text>
+    </card>
+    <card>
+      <name>CU16 Illegal Investigation</name>
+      <set rarity="common">TEL</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature to its owner’s hand. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Human [Token] TEL</name>
+      <set>TEL</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>!related CW03 Unimportant Quest;CW06 Battery Carrier;UM15 Voices of the Woods;UM16 The Angelic Chronicles</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>CW03 Unimportant Quest</reverse-related>
+      <reverse-related>CW06 Battery Carrier</reverse-related>
+      <reverse-related>UM15 Voices of the Woods</reverse-related>
+      <reverse-related>UM16 The Angelic Chronicles</reverse-related>
+    </card>
+    <card>
+      <name>Clue [Token] TEL</name>
+      <set>TEL</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Clue </type>
+        <maintype>Artifact</maintype>
+        <notes>!related CW02 Automatic Inspector;MU02 Valla, Eternal Observer</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, Sacrifice this artifact: Draw a card.</text>
+      <token>1</token>
+      <reverse-related>CW02 Automatic Inspector</reverse-related>
+      <reverse-related>MU02 Valla, Eternal Observer</reverse-related>
+    </card>
+    <card>
+      <name>Treasure [Token] TEL</name>
+      <set>TEL</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+        <notes>!related RM07 Kzaandapocl, Uncapturable</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+      <reverse-related>RM07 Kzaandapocl, Uncapturable</reverse-related>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
