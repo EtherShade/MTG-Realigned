@@ -1,0 +1,5798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>SHD</name>
+      <longname>Shattered Draft</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>RM07 Prismatic Blessing</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>URG</colors>
+        <color>URG</color>
+        <manacost>GUR</manacost>
+        <cost>GUR</cost>
+        <mana>GUR</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast a spell, if the mana spent to cast it has at least three of the following, copy that spell —
+• {W} or {B}.
+• From a basic permanent.
+• From a creature.
+• From an artifact.
+• From an enchantment.
+• From an instant or sorcery.</text>
+    </card>
+    <card>
+      <name>CC01 Voidborn Hydra</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>X</manacost>
+        <cost>X</cost>
+        <mana>X</mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Enchantment Creature - Hydra </type>
+        <maintype>Creature</maintype>
+        <pt>-1/0</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Voidborn Hydra enters with X +1/+1 counters.</text>
+    </card>
+    <card>
+      <name>CZ21 Rift of Frost</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Sacrifice Rift of Frost: Add WU.</text>
+    </card>
+    <card>
+      <name>CZ22 Rift of Darkness</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Sacrifice Rift of Darkness: Add UB.</text>
+    </card>
+    <card>
+      <name>CZ23 Rift of Blood</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Sacrifice Rift of Blood: Add BR.</text>
+    </card>
+    <card>
+      <name>CZ24 Rift of Fire</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Sacrifice Rift of Fire: Add RG.</text>
+    </card>
+    <card>
+      <name>CZ25 Rift of Life</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Sacrifice Rift of Life: Add GW.</text>
+    </card>
+    <card>
+      <name>CZ26 Rift of Bone</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Sacrifice Rift of Bone: Add WB.</text>
+    </card>
+    <card>
+      <name>CZ27 Rift of Thunder</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Sacrifice Rift of Thunder: Add UR.</text>
+    </card>
+    <card>
+      <name>CZ28 Rift of Death</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Sacrifice Rift of Death: Add BG.</text>
+    </card>
+    <card>
+      <name>CZ29 Rift of Light</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Sacrifice Rift of Light: Add RW.</text>
+    </card>
+    <card>
+      <name>CZ30 Rift of Water</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Sacrifice Rift of Water: Add GU.</text>
+    </card>
+    <card>
+      <name>RL01 Siege of the Tomb</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Battle Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Siege of the Tomb enters tapped.
+{T}: Add CC. Siege of the Tomb deals 2 damage to you or itself.</text>
+    </card>
+    <card>
+      <name>UZ01 Authorized Gateway</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Portal </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Authorized Gateway enters tapped.
+When Authorized Gateway enters, return a non-Portal land you control to its owner’s hand. Create a tapped token that’s a copy of it.
+{T}: Add {W}.</text>
+    </card>
+    <card>
+      <name>UZ02 Optimized Gateway</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Portal </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Optimized Gateway enters tapped.
+When Optimized Gateway enters, return a non-Portal land you control to its owner’s hand. Create a tapped token that’s a copy of it.
+{T}: Add {U}.</text>
+    </card>
+    <card>
+      <name>UZ03 Dominated Gateway</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Portal </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Dominated Gateway enters tapped.
+When Dominated Gateway enters, return a non-Portal land you control to its owner’s hand. Create a tapped token that’s a copy of it.
+{T}: Add {B}.</text>
+    </card>
+    <card>
+      <name>UZ04 Randomized Gateway</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Portal </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Randomized Gateway enters tapped.
+When Randomized Gateway enters, return a non-Portal land you control to its owner’s hand. Create a tapped token that’s a copy of it.
+{T}: Add {R}.</text>
+    </card>
+    <card>
+      <name>UZ05 Challenging Gateway</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land - Portal </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Challenging Gateway enters tapped.
+When Challenging Gateway enters, return a non-Portal land you control to its owner’s hand. Create a tapped token that’s a copy of it.
+{T}: Add {G}.</text>
+    </card>
+    <card>
+      <name>UZ07 Archway of Sparks</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Planeswalker Land</type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>2</loyalty>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Scry 1.
+[-1]: Draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>CL01 Haven of Anticipation</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+Discard Haven of Anticipation: Until end of turn, target nonland permanent gains “You may cast spells as though they had flash.”</text>
+    </card>
+    <card>
+      <name>CW14 Cease Conflict</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Enchantment - Aura Saga </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Enchant creature
+I — Cease Conflict gains “Enchanted creature can’t attack or block.”
+II — Create a 1/1 colorless Human creature token.
+III — Create a Shard token. (It’s an enchantment with “{2}, Sacrifice this token: Scry 1, then draw a card.”)</text>
+    </card>
+    <card>
+      <name>UZ11 Stronghold of Frost</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Stronghold of Frost enters tapped unless you control two or more other artifacts.
+Indestructible
+{T}: Add {W} or {U}.</text>
+    </card>
+    <card>
+      <name>UC03 Void Ritual</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>3</manacost>
+        <cost>3</cost>
+        <mana>3</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Add CCCCC.</text>
+    </card>
+    <card>
+      <name>CZ01 Flag of Frost</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>WU</colors>
+        <color>WU</color>
+        <manacost>W/U</manacost>
+        <cost>W/U</cost>
+        <mana>W/U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Flag of Frost enters, you may search your library for a Plains or Island card, reveal it, put it into your hand, then shuffle.
+1WU, Sacrifice Flag of Frost: Draw a card.</text>
+    </card>
+    <card>
+      <name>CW19 Dimensional Ruin</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice an artifact or enchantment or pay {2}.
+Destroy target creature with mana value 4 or greater, artifact, or enchantment.</text>
+    </card>
+    <card>
+      <name>CU10 Suppress Creativity</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target activated or triggered ability.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>CZ11 Emblem of Frost</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>WU</colors>
+        <color>WU</color>
+        <manacost>W/U</manacost>
+        <cost>W/U</cost>
+        <mana>W/U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Emblem of Frost enters, draw a card.
+Lands you control are Plains and Islands in addition to their other types.
+Sacrifice Emblem of Frost: Target creature you control gets +1/+1 until end of turn. Activate only outside of combat.</text>
+    </card>
+    <card>
+      <name>CZ02 Flag of Darkness</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>UB</colors>
+        <color>UB</color>
+        <manacost>U/B</manacost>
+        <cost>U/B</cost>
+        <mana>U/B</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Flag of Darkness enters, you may search your library for an Island or Swamp card, reveal it, put it into your hand, then shuffle.
+1UB, Sacrifice Flag of Darkness: Draw a card.</text>
+    </card>
+    <card>
+      <name>CZ03 Flag of Blood</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>BR</colors>
+        <color>BR</color>
+        <manacost>B/R</manacost>
+        <cost>B/R</cost>
+        <mana>B/R</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Flag of Blood enters, you may search your library for a Swamp or Mountain card, reveal it, put it into your hand, then shuffle.
+1BR, Sacrifice Flag of Blood: Draw a card.</text>
+    </card>
+    <card>
+      <name>CZ04 Flag of Fire</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>RG</colors>
+        <color>RG</color>
+        <manacost>R/G</manacost>
+        <cost>R/G</cost>
+        <mana>R/G</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Flag of Fire enters, you may search your library for a Mountain or Forest card, reveal it, put it into your hand, then shuffle.
+1RG, Sacrifice Flag of Fire: Draw a card.</text>
+    </card>
+    <card>
+      <name>CZ05 Flag of Life</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>WG</colors>
+        <color>WG</color>
+        <manacost>G/W</manacost>
+        <cost>G/W</cost>
+        <mana>G/W</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Flag of Life enters, you may search your library for a Forest or Plains card, reveal it, put it into your hand, then shuffle.
+1GW, Sacrifice Flag of Life: Draw a card.</text>
+    </card>
+    <card>
+      <name>CZ06 Flag of Bone</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>WB</colors>
+        <color>WB</color>
+        <manacost>W/B</manacost>
+        <cost>W/B</cost>
+        <mana>W/B</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Flag of Bone enters, you may search your library for a Plains or Swamp card, reveal it, put it into your hand, then shuffle.
+1WB, Sacrifice Flag of Bone: Draw a card.</text>
+    </card>
+    <card>
+      <name>CZ07 Flag of Thunder</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>UR</colors>
+        <color>UR</color>
+        <manacost>U/R</manacost>
+        <cost>U/R</cost>
+        <mana>U/R</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Flag of Thunder enters, you may search your library for an Island or Mountain card, reveal it, put it into your hand, then shuffle.
+1UR, Sacrifice Flag of Thunder: Draw a card.</text>
+    </card>
+    <card>
+      <name>CZ08 Flag of Death</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>BG</colors>
+        <color>BG</color>
+        <manacost>B/G</manacost>
+        <cost>B/G</cost>
+        <mana>B/G</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Flag of Death enters, you may search your library for a Swamp or Forest card, reveal it, put it into your hand, then shuffle.
+1BG, Sacrifice Flag of Death: Draw a card.</text>
+    </card>
+    <card>
+      <name>CZ09 Flag of Light</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>WR</colors>
+        <color>WR</color>
+        <manacost>R/W</manacost>
+        <cost>R/W</cost>
+        <mana>R/W</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Flag of Light enters, you may search your library for a Mountain or Plains card, reveal it, put it into your hand, then shuffle.
+1RW, Sacrifice Flag of Light: Draw a card.</text>
+    </card>
+    <card>
+      <name>CZ10 Flag of Water</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>UG</colors>
+        <color>UG</color>
+        <manacost>G/U</manacost>
+        <cost>G/U</cost>
+        <mana>G/U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Flag of Water enters, you may search your library for a Forest or Island card, reveal it, put it into your hand, then shuffle.
+1GU, Sacrifice Flag of Water: Draw a card.</text>
+    </card>
+    <card>
+      <name>CZ12 Emblem of Darkness</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>UB</colors>
+        <color>UB</color>
+        <manacost>U/B</manacost>
+        <cost>U/B</cost>
+        <mana>U/B</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Emblem of Darkness enters, draw a card.
+Lands you control are Islands and Swamps in addition to their other types.
+Sacrifice Emblem of Darkness: Target creature you control gets +1/+1 until end of turn. Activate only outside of combat.</text>
+    </card>
+    <card>
+      <name>CZ13 Emblem of Blood</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>BR</colors>
+        <color>BR</color>
+        <manacost>B/R</manacost>
+        <cost>B/R</cost>
+        <mana>B/R</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Emblem of Blood enters, draw a card.
+Lands you control are Swamps and Mountains in addition to their other types.
+Sacrifice Emblem of Blood: Target creature you control gets +1/+1 until end of turn. Activate only outside of combat.</text>
+    </card>
+    <card>
+      <name>CZ14 Emblem of Fire</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>RG</colors>
+        <color>RG</color>
+        <manacost>R/G</manacost>
+        <cost>R/G</cost>
+        <mana>R/G</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Emblem of Fire enters, draw a card.
+Lands you control are Mountains and Forests in addition to their other types.
+Sacrifice Emblem of Fire: Target creature you control gets +1/+1 until end of turn. Activate only outside of combat.</text>
+    </card>
+    <card>
+      <name>CZ15 Emblem of Life</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>WG</colors>
+        <color>WG</color>
+        <manacost>G/W</manacost>
+        <cost>G/W</cost>
+        <mana>G/W</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Emblem of Life enters, draw a card.
+Lands you control are Forests and Plains in addition to their other types.
+Sacrifice Emblem of Life: Target creature you control gets +1/+1 until end of turn. Activate only outside of combat.</text>
+    </card>
+    <card>
+      <name>CZ16 Emblem of Bone</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>WB</colors>
+        <color>WB</color>
+        <manacost>W/B</manacost>
+        <cost>W/B</cost>
+        <mana>W/B</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Emblem of Bone enters, draw a card.
+Lands you control are Plains and Swamps in addition to their other types.
+Sacrifice Emblem of Bone: Target creature you control gets +1/+1 until end of turn. Activate only outside of combat.</text>
+    </card>
+    <card>
+      <name>CZ17 Emblem of Thunder</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>UR</colors>
+        <color>UR</color>
+        <manacost>U/R</manacost>
+        <cost>U/R</cost>
+        <mana>U/R</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Emblem of Thunder enters, draw a card.
+Lands you control are Islands and Mountains in addition to their other types.
+Sacrifice Emblem of Thunder: Target creature you control gets +1/+1 until end of turn. Activate only outside of combat.</text>
+    </card>
+    <card>
+      <name>CZ18 Emblem of Death</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>BG</colors>
+        <color>BG</color>
+        <manacost>B/G</manacost>
+        <cost>B/G</cost>
+        <mana>B/G</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Emblem of Death enters, draw a card.
+Lands you control are Swamps and Forests in addition to their other types.
+Sacrifice Emblem of Death: Target creature you control gets +1/+1 until end of turn. Activate only outside of combat.</text>
+    </card>
+    <card>
+      <name>CZ19 Emblem of Light</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>WR</colors>
+        <color>WR</color>
+        <manacost>R/W</manacost>
+        <cost>R/W</cost>
+        <mana>R/W</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Emblem of Light enters, draw a card.
+Lands you control are Mountains and Plains in addition to their other types.
+Sacrifice Emblem of Light: Target creature you control gets +1/+1 until end of turn. Activate only outside of combat.</text>
+    </card>
+    <card>
+      <name>CZ20 Emblem of Water</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>UG</colors>
+        <color>UG</color>
+        <manacost>G/U</manacost>
+        <cost>G/U</cost>
+        <mana>G/U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Emblem of Water enters, draw a card.
+Lands you control are Forests and Islands in addition to their other types.
+Sacrifice Emblem of Water: Target creature you control gets +1/+1 until end of turn. Activate only outside of combat.</text>
+    </card>
+    <card>
+      <name>CC02 Nyxling</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>0</manacost>
+        <cost>0</cost>
+        <mana>0</mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Enchantment Creature - Spawn </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Escape {2}, Exile another card from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+    </card>
+    <card>
+      <name>UZ12 Stronghold of Darkness</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Stronghold of Darkness enters tapped unless you control two or more other artifacts.
+Indestructible
+{T}: Add {U} or {B}.</text>
+    </card>
+    <card>
+      <name>UZ13 Stronghold of Blood</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Stronghold of Blood enters tapped unless you control two or more other artifacts.
+Indestructible
+{T}: Add {B} or {R}.</text>
+    </card>
+    <card>
+      <name>UZ14 Stronghold of Fire</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Stronghold of Fire enters tapped unless you control two or more other artifacts.
+Indestructible
+{T}: Add {R} or {G}.</text>
+    </card>
+    <card>
+      <name>UZ15 Stronghold of Life</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Stronghold of Life enters tapped unless you control two or more other artifacts.
+Indestructible
+{T}: Add {G} or {W}.</text>
+    </card>
+    <card>
+      <name>UZ16 Stronghold of Bone</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Stronghold of Bone enters tapped unless you control two or more other artifacts.
+Indestructible
+{T}: Add {W} or {B}.</text>
+    </card>
+    <card>
+      <name>UZ17 Stronghold of Thunder</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Stronghold of Thunder enters tapped unless you control two or more other artifacts.
+Indestructible
+{T}: Add {U} or {R}.</text>
+    </card>
+    <card>
+      <name>UZ18 Stronghold of Death</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Stronghold of Death enters tapped unless you control two or more other artifacts.
+Indestructible
+{T}: Add {B} or {G}.</text>
+    </card>
+    <card>
+      <name>UZ19 Stronghold of Light</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Stronghold of Light enters tapped unless you control two or more other artifacts.
+Indestructible
+{T}: Add {R} or {W}.</text>
+    </card>
+    <card>
+      <name>UZ20 Stronghold of Water</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Stronghold of Water enters tapped unless you control two or more other artifacts.
+Indestructible
+{T}: Add {G} or {U}.</text>
+    </card>
+    <card>
+      <name>UZ21 Zone of Frost</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Enchantment Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Zone of Frost enters tapped unless you control two or more other enchantments.
+Hexproof
+{T}: Add {W} or {U}.</text>
+    </card>
+    <card>
+      <name>CA01 Vexling</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>0</manacost>
+        <cost>0</cost>
+        <mana>0</mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Unearth {0} ({0}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>UZ22 Zone of Darkness</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Enchantment Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Zone of Darkness enters tapped unless you control two or more other enchantments.
+Hexproof
+{T}: Add {U} or {B}.</text>
+    </card>
+    <card>
+      <name>UZ23 Zone of Blood</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Enchantment Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Zone of Blood enters tapped unless you control two or more other enchantments.
+Hexproof
+{T}: Add {B} or {R}.</text>
+    </card>
+    <card>
+      <name>UZ24 Zone of Fire</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Enchantment Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Zone of Fire enters tapped unless you control two or more other enchantments.
+Hexproof
+{T}: Add {R} or {G}.</text>
+    </card>
+    <card>
+      <name>UZ25 Zone of Life</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Enchantment Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Zone of Life enters tapped unless you control two or more other enchantments.
+Hexproof
+{T}: Add {G} or {W}.</text>
+    </card>
+    <card>
+      <name>UZ26 Zone of Bone</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Enchantment Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Zone of Bone enters tapped unless you control two or more other enchantments.
+Hexproof
+{T}: Add {W} or {B}.</text>
+    </card>
+    <card>
+      <name>UZ27 Zone of Thunder</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Enchantment Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Zone of Thunder enters tapped unless you control two or more other enchantments.
+Hexproof
+{T}: Add {U} or {R}.</text>
+    </card>
+    <card>
+      <name>UZ28 Zone of Death</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Enchantment Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Zone of Death enters tapped unless you control two or more other enchantments.
+Hexproof
+{T}: Add {B} or {G}.</text>
+    </card>
+    <card>
+      <name>UZ29 Zone of Light</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Enchantment Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Zone of Light enters tapped unless you control two or more other enchantments.
+Hexproof
+{T}: Add {R} or {W}.</text>
+    </card>
+    <card>
+      <name>UZ30 Zone of Water</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Enchantment Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Zone of Water enters tapped unless you control two or more other enchantments.
+Hexproof
+{T}: Add {G} or {U}.</text>
+    </card>
+    <card>
+      <name>UU10 Once More</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target instant or sorcery spell gains rebound. (If you cast that spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast that card from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>MU02 Returned Master</name>
+      <set rarity="mythic">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Creature - Human Monk </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast your second spell each turn, conjure a card named Once More into your hand.
+Spells you cast named Once More cost {1} less to cast.
+Whenever you cast a spell from exile, until end of turn, Returned Master gets +1/+1 and can’t be blocked.</text>
+    </card>
+    <card>
+      <name>CC03 Indicative Choice</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>1</manacost>
+        <cost>1</cost>
+        <mana>1</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature’s controller mills a card.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>CU01 Phantasmal Frog</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Creature - Frog Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Phantasmal Frog becomes the target of a spell or ability, sacrifice it.
+When Phantasmal Frog dies, draw a card.</text>
+    </card>
+    <card>
+      <name>MA01 The Vexenvault</name>
+      <set rarity="mythic">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>3</manacost>
+        <cost>3</cost>
+        <mana>3</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Choose one. Conjure a card into your hand with the chosen name —
+• Vex Opal.
+• Vex Amber.
+• Vex Jasper.</text>
+    </card>
+    <card>
+      <name>RC01 Strained Evolver</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Creature - Human Mutant </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Level up {1} ({1}: Put a level counter on this. Level up only as a sorcery.)
+Strained Evolver gets +2/+2 for each level counter on it.
+At the beginning of your upkeep, sacrifice Strained Evolver unless you pay {X}, where X is the number of level counters on Strained Evolver.</text>
+    </card>
+    <card>
+      <name>RM14 Triple Tempest</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>UR</colors>
+        <color>UR</color>
+        <manacost>UUURRR</manacost>
+        <cost>UUURRR</cost>
+        <mana>UUURRR</mana>
+        <cmc>6</cmc>
+        <mv>6</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Storm, Storm, Storm (When you cast this spell, copy it three times for each spell cast before it this turn. You may choose new targets for the copies.)
+Triple Tempest deals 1 damage to each creature. Return a creature to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>RM09 Omniscient Blessing</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>WUR</colors>
+        <color>WUR</color>
+        <manacost>URW</manacost>
+        <cost>URW</cost>
+        <mana>URW</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Each player can’t cast more than one spell each turn.
+Each player may cast spells from their hand without paying their mana costs during their turns.</text>
+    </card>
+    <card>
+      <name>CW02 Forceful Inspector</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Artifact Creature - Construct Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Forceful Inspector enters, you may put a stun counter on it. If you do, create a Food token. (It’s an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)</text>
+    </card>
+    <card>
+      <name>CW03 Overequipped Hunter</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Overequipped Hunter attacks, it gains first strike until end of turn.
+Overequipped Hunter gets +1/+1 for each permanent attached to it.</text>
+    </card>
+    <card>
+      <name>CW01 Village Traditions</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+I, II — You gain 1 life.
+III — Create a 1/1 colorless Human creature token.</text>
+    </card>
+    <card>
+      <name>CW17 Evolved Blessing</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +2/+2.
+Whenever a non-Aura enchantment you control leaves the battlefield, you may return Evolved Blessing from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>CW04 Friendly Pigeon</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Friendly Pigeon enters, draw a card.</text>
+    </card>
+    <card>
+      <name>RB02 Undead Rookie</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Undead Rookie has decayed unless you have max speed. (It can’t block. When it attacks, sacrifice it at end of combat.)
+Escape—{B}, Exile two other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+    </card>
+    <card>
+      <name>RR02 Ezeria, Maddened Queen</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>3R</manacost>
+        <cost>3R</cost>
+        <mana>3R</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Legendary Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Ezeria, Maddened Queen attacks or blocks, discard a card.
+Whenever Ezeria, Maddened Queen deals combat damage to a player, draw a card.
+Whenever you discard a card, Ezeria, Maddened Queen deals damage equal to the discarded card’s mana value to target creature.</text>
+    </card>
+    <card>
+      <name>UU05 Enhanced Investigator</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>4U</manacost>
+        <cost>4U</cost>
+        <mana>4U</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Creature - Human Detective </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell, if it’s not your turn or that spell isn’t the first spell you’ve cast this turn, investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)
+Enhanced Investigator gets +3/+0 as long as you control four or more artifacts.</text>
+    </card>
+    <card>
+      <name>CW05 Adept Aeronaut</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more artifacts you control enter, Adept Aeronaut gains flying until end of turn. If it already has flying, put a flying counter on it instead. If it already has a flying counter, it gets +1/+1 until end of turn instead.</text>
+    </card>
+    <card>
+      <name>CW06 Sharer of Wealth</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Enchantment Creature - Spirit Merchant </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink, vigilance
+2W, {T}: Each player draws a card.</text>
+    </card>
+    <card>
+      <name>CW07 Predestined Prophet</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When you cast Predestined Prophet, exile target artifact or creature, then return it to the battlefield under its owner’s control.
+Evoke {W} (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</text>
+    </card>
+    <card>
+      <name>RM05 Simplistic Blessing</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>WRG</colors>
+        <color>WRG</color>
+        <manacost>RGW</manacost>
+        <cost>RGW</cost>
+        <mana>RGW</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Lands your opponents control enter tapped.
+Lands lose all non-mana abilities.</text>
+    </card>
+    <card>
+      <name>UW01 Tithe Taker</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Creature - Human Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Tithe Taker enters, counter target spell unless its controller pays {1}.</text>
+    </card>
+    <card>
+      <name>UB01 Tithe Slayer</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Creature - Human Archer </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Tithe Slayer enters, it deals 1 damage to up to one target creature. Create a Mirror token. (It’s an artifact with “Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)</text>
+    </card>
+    <card>
+      <name>RW02 Shattered Path</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Cleave 6U (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)
+Exile target artifact or creature [you control], then return it to the battlefield under your control.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>CW08 Auric Endurer</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Outlast 1W (1W, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)
+Sacrifice an enchantment: Untap Auric Endurer. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>CW09 Friendly Bartender</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>3W</manacost>
+        <cost>3W</cost>
+        <mana>3W</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Creature - Human Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Affinity for creatures (This spell costs {1} less to cast for each creature you control.)
+When Friendly Bartender enters, create a 1/1 colorless Human creature token.</text>
+    </card>
+    <card>
+      <name>CW10 Fragment Caretaker</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>3W</manacost>
+        <cost>3W</cost>
+        <mana>3W</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Fragment Caretaker enters, create a Shard token. (It’s an enchantment with “{2}, Sacrifice this token: Scry 1, then draw a card.”)
+Whenever you sacrifice an enchantment, put a +1/+1 counter on Fragment Caretaker.</text>
+    </card>
+    <card>
+      <name>CW11 Tithing Angel</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>4W</manacost>
+        <cost>4W</cost>
+        <mana>4W</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Creature - Angel Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+The first spell each opponent casts each turn costs {1} more to cast.</text>
+    </card>
+    <card>
+      <name>CW12 Data Titan</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>5W</manacost>
+        <cost>5W</cost>
+        <mana>5W</mana>
+        <cmc>6</cmc>
+        <mv>6</mv>
+        <type>Artifact Creature - Giant Construct </type>
+        <maintype>Creature</maintype>
+        <pt>3/6</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Data Titan or another artifact you control enters, create a Shard token. (It’s an enchantment with “{2}, Sacrifice this token: Scry 1, then draw a card.”)</text>
+    </card>
+    <card>
+      <name>CW13 Embedded Blade</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +3/+3.
+Equip {4}
+Channel — 1W, Discard Embedded Blade: Embedded Blade deals 3 damage to target attacking or blocking creature.</text>
+    </card>
+    <card>
+      <name>CW15 Cull Dissenters</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target tapped creature.</text>
+    </card>
+    <card>
+      <name>CW16 Safety Stratagem</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +1/+3 until end of turn. Draw a card.</text>
+    </card>
+    <card>
+      <name>CW18 Brilliant Charge</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap up to two target creatures. Creatures you control get +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>RM01 Paradoxical Blessing</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>WUG</colors>
+        <color>WUG</color>
+        <manacost>GWU</manacost>
+        <cost>GWU</cost>
+        <mana>GWU</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Your turns that start with Paradoxical Blessing on the battlefield consist of the following steps and phases, in this order:
+• Untap.
+• Draw.
+• Draw.
+• Main.
+• Upkeep.
+• Upkeep.
+• Combat.
+• Ending.</text>
+    </card>
+    <card>
+      <name>RM03 Obsessive Blessing</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>UBR</colors>
+        <color>UBR</color>
+        <manacost>UBR</manacost>
+        <cost>UBR</cost>
+        <mana>UBR</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, discard two cards.
+Whenever you discard a card, draw a card.</text>
+    </card>
+    <card>
+      <name>RM08 Eternal Blessing</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>WBG</colors>
+        <color>WBG</color>
+        <manacost>WBG</manacost>
+        <cost>WBG</cost>
+        <mana>WBG</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature dies, return it to the battlefield tapped under its owner’s control.</text>
+    </card>
+    <card>
+      <name>CU02 Bewinged Earth</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Artifact Creature - Golem Angel </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Landfall — Whenever a land you control enters, add CC. You can’t spend this mana to cast spells.
+{2}, {1} or {T}: Draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>CR18 Tears of War</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target artifact. If you controlled it, create three 1/1 colorless Human creature tokens.</text>
+    </card>
+    <card>
+      <name>CU04 Nyx Drake</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Enchantment Creature - Drake </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bestow 4U (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)
+Flying
+Enchanted creature gets +2/+2 and gains flying.</text>
+    </card>
+    <card>
+      <name>CU03 Cognitogeist</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>-3/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Skulk (This creature can’t be blocked by creatures with greater power.)
+Cognitogeist gets +1/+0 for each card in your hand.
+Whenever Cognitogeist deals combat damage to player, draw a card.</text>
+    </card>
+    <card>
+      <name>CU05 Mirror Keeper</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>String Variable—{enters}, {leaves the battlefield}
+When Mirror Keeper [], draw a card.
+When Mirror Keeper [], create a Mirror token. (It’s an artifact with “Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)</text>
+    </card>
+    <card>
+      <name>CU06 Wizard Elitist</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>3U</manacost>
+        <cost>3U</cost>
+        <mana>3U</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Wizard Elitist enters, create a Sorcerer Role token attached to another target creature with lesser power than Wizard Elitist. (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1 and has “Whenever this creature attacks, scry 1.”)</text>
+    </card>
+    <card>
+      <name>CU07 Soil Refresh Bot</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>3U</manacost>
+        <cost>3U</cost>
+        <mana>3U</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+{3}, {T}: Exile target land you control, then return it to the battlefield under your control. Untap it.</text>
+    </card>
+    <card>
+      <name>CU08 Runic Savant</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>4U</manacost>
+        <cost>4U</cost>
+        <mana>4U</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Runic Savant attacks and whenever it becomes the target of a spell or ability you control, create a Mirror token. (It’s an artifact with “Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)</text>
+    </card>
+    <card>
+      <name>CU09 Serpent of Mind&apos;s Depths</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>5U</manacost>
+        <cost>5U</cost>
+        <mana>5U</mana>
+        <cmc>6</cmc>
+        <mv>6</mv>
+        <type>Enchantment Creature - Serpent Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Indestructible
+Whenever Serpent of Mind’s Depths becomes the target of a spell or ability, sacrifice it.</text>
+    </card>
+    <card>
+      <name>CU11 Steal Reflections</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>1UU</manacost>
+        <cost>1UU</cost>
+        <mana>1UU</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell. Create a Mirror token. (It’s an artifact with “Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)</text>
+    </card>
+    <card>
+      <name>CU12 Nyx and Void</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell unless its controller pays {X}, where X is 2 or the number of enchantments you control, whichever is greater.</text>
+    </card>
+    <card>
+      <name>CU13 Null Slumber</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant nonland permanent
+Enchanted permanent doesn’t untap during its controller’s untap step.</text>
+    </card>
+    <card>
+      <name>CU14 Book of Wings</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>3U</manacost>
+        <cost>3U</cost>
+        <mana>3U</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Book of Wings enters, draw two cards.
+{2}, {T}: Put a +1/+1 counter on target creature. It gains flying until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>CU15 Scattered Thoughts</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw three cards, then discard two cards.</text>
+    </card>
+    <card>
+      <name>CU16 Derealize</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target nonland permanent to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>CU17 Overwhelming Curiosity</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>3U</manacost>
+        <cost>3U</cost>
+        <mana>3U</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant nonland permanent
+Whenever enchanted permanent deals damage to a player, draw two cards.</text>
+    </card>
+    <card>
+      <name>CU18 Equilibrium Lock</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, tap X untapped creatures you control.
+Tap X target creatures.</text>
+    </card>
+    <card>
+      <name>CU19 Timely Vigil</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +1/+1 and has vigilance and changeling. (This card is every creature type.)
+When Timely Vigil enters, conjure a card named Vex Jasper into your hand.</text>
+    </card>
+    <card>
+      <name>CB01 Shimmerfang Vermin</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Creature - Rat </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+When Shimmerfang Vermin dies, create a Mirror token. (It’s an artifact with “Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)</text>
+    </card>
+    <card>
+      <name>CB02 Bloodhex Veteran</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Bloodhex Veteran or another creature you control dies, each opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>CB03 Ambush Veindrinker</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Creature - Vampire Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Lifelink
+When Ambush Veindrinker dies, you may pay 2 life. When you do, draw a card.</text>
+    </card>
+    <card>
+      <name>CB04 Omenous Vulture</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>2B</manacost>
+        <cost>2B</cost>
+        <mana>2B</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+3B, Sacrifice a creature: Put a +1/+1 counter on Omenous Vulture.</text>
+    </card>
+    <card>
+      <name>CB05 Earth Shatterer</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>2B</manacost>
+        <cost>2B</cost>
+        <mana>2B</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+{B}, {T}, Sacrifice a land: Create two Mirror tokens. (They’re artifacts with “Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)</text>
+    </card>
+    <card>
+      <name>CB06 Prince of Fallen Loyalty</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>2B</manacost>
+        <cost>2B</cost>
+        <mana>2B</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Creature - Zombie Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Prince of Fallen Loyalty enters, return target creature from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>CB07 Mournful Canine</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>3B</manacost>
+        <cost>3B</cost>
+        <mana>3B</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Artifact Creature - Dog </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Mournful Canine enters, create a Mirror token. (It’s an artifact with “Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)
+2B, Sacrifice an artifact: Each opponent loses 2 life and you gain 2 life.</text>
+    </card>
+    <card>
+      <name>CB08 Mournful Feline</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>3B</manacost>
+        <cost>3B</cost>
+        <mana>3B</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Enchantment Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Mournful Feline enters, create a Shard token. (It’s an enchantment with “{2}, Sacrifice this token: Scry 1, then draw a card.”)
+2B, Sacrifice an enchantment: Each opponent loses 2 life and you gain 2 life.</text>
+    </card>
+    <card>
+      <name>CB09 Great Rotbeast</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>4B</manacost>
+        <cost>4B</cost>
+        <mana>4B</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Creature - Zombie Beast </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you sacrifice a permanent, Great Rotbeast gets +1/+2 and gains menace until end of turn.</text>
+    </card>
+    <card>
+      <name>CB10 Prismatic Lich</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>5B</manacost>
+        <cost>5B</cost>
+        <mana>5B</mana>
+        <cmc>6</cmc>
+        <mv>6</mv>
+        <type>Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>4/0</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Prismatic Lich enters with a +1/+1 counter for each color of mana spent to cast it.</text>
+    </card>
+    <card>
+      <name>CB11 Shatter Flesh</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>2BB</manacost>
+        <cost>2BB</cost>
+        <mana>2BB</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature or planeswalker. Create a Shard token. (It’s an enchantment with “{2}, Sacrifice this token: Scry 1, then draw a card.”)</text>
+    </card>
+    <card>
+      <name>RW04 Chains of Competition</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant nonland permanent
+When this Aura enters, put a number of defense counters on it equal to its mana value.
+Enchanted permanent is a battle in addition to its other types. (Its controller defends it.)</text>
+    </card>
+    <card>
+      <name>RM02 Archival Blessing</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>WUB</colors>
+        <color>WUB</color>
+        <manacost>WUB</manacost>
+        <cost>WUB</cost>
+        <mana>WUB</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, each player draws two cards.</text>
+    </card>
+    <card>
+      <name>CB13 Archival Edict</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>2B</manacost>
+        <cost>2B</cost>
+        <mana>2B</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each opponent sacrifices a creature.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>CB14 Whispering Touch</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Cleave 1BB (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)
+Destroy target creature. [You lose life equal to its mana value.]</text>
+    </card>
+    <card>
+      <name>CB15 Bloodsworn Teachings</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>BB</manacost>
+        <cost>BB</cost>
+        <mana>BB</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Reveal the top two cards of your library and put them into your hand. You lose life equal to their total mana value.</text>
+    </card>
+    <card>
+      <name>CB16 Persistent Vengeance</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>2B</manacost>
+        <cost>2B</cost>
+        <mana>2B</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two. You may choose the same option more than once —
+• Return target creature card from your graveyard to your hand.
+• Target player draws a card and loses 1 life.
+• Target player reveals their hand. You choose a noncreature, nonland card from it. They discard that card. You lose 2 life.</text>
+    </card>
+    <card>
+      <name>CB17 Disputed Diplomacy</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker {2/R} (You may pay an additional {2/R} as you cast this spell.)
+As an additional cost to cast this spell, sacrifice a permanent.
+Draw two cards. If this spell was kicked, create a Mirror token. (It’s an artifact with “Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)</text>
+    </card>
+    <card>
+      <name>CB18 Enshrouded Aggression</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +2/+2, has ward {1}, and can’t block. (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
+    </card>
+    <card>
+      <name>CB19 Soul Relic</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Soul Relic enters and when it leaves the battlefield, create 1/1 colorless Human creature token and a Mirror token. (It’s an artifact with “Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)
+3B: Sacrifice Soul Relic.</text>
+    </card>
+    <card>
+      <name>CR02 Mirror Thief</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When Mirror Thief dies, create a Mirror token. (It’s an artifact with “Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)</text>
+    </card>
+    <card>
+      <name>CR01 Blood Druid</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {B} or {R}. Blood Druid deals 1 damage to you.</text>
+    </card>
+    <card>
+      <name>CG01 Peaceful Caretaker</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {G} or {W}.</text>
+    </card>
+    <card>
+      <name>RM04 Beastial Blessing</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>BRG</colors>
+        <color>BRG</color>
+        <manacost>BRG</manacost>
+        <cost>BRG</cost>
+        <mana>BRG</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sacrifice a creature: Add CC or one mana of that creature’s colors.</text>
+    </card>
+    <card>
+      <name>RM10 Restorative Blessing</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>UBG</colors>
+        <color>UBG</color>
+        <manacost>BGU</manacost>
+        <cost>BGU</cost>
+        <mana>BGU</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, return target card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>RM06 Glorified Blessing</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>WBR</colors>
+        <color>WBR</color>
+        <manacost>RWB</manacost>
+        <cost>RWB</cost>
+        <mana>RWB</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>After the first combat step each turn, there is an additional combat step.</text>
+    </card>
+    <card>
+      <name>CR03 Elite Flameblade</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Whenever Elite Flameblade deals combat damage to a creature, it deals 1 damage to each player.</text>
+    </card>
+    <card>
+      <name>CR04 Heartsblood Flamecaller</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Heartsblood Flamecaller or another creature you control leaves the battlefield, Heartsblood Flamecaller deals 1 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>CR05 Burning-Bush Incanter</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+3R, Sacrifice a land, discard a card: Draw two cards.</text>
+    </card>
+    <card>
+      <name>CR06 Walking Trebuchet</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Artifact Creature - Construct Archer </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Reach</text>
+    </card>
+    <card>
+      <name>CR07 Cutthroat Captain</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>3R</manacost>
+        <cost>3R</cost>
+        <mana>3R</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Cutthroat Captain enters, you may sacrifice a creature. If you do, creatures you control gain haste until end of turn.</text>
+    </card>
+    <card>
+      <name>CR08 Ironfisted Ruiner</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>3R</manacost>
+        <cost>3R</cost>
+        <mana>3R</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Artifact Creature - Construct Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>3R, Sacrifice a land: Ironfisted Ruiner deals 5 damage to target player.</text>
+    </card>
+    <card>
+      <name>CR09 Meltedbrain Troll</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>4R</manacost>
+        <cost>4R</cost>
+        <mana>4R</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Creature - Troll Horror </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Meltedbrain Troll leaves the battlefield, create three Mirror tokens. (They’re artifacts with “Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)</text>
+    </card>
+    <card>
+      <name>CR10 Flamethrower Bot</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>6R</manacost>
+        <cost>6R</cost>
+        <mana>6R</mana>
+        <cmc>7</cmc>
+        <mv>7</mv>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+{R}: Flamethrower Bot gets +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>CR11 Controlled Shock</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Controlled Shock deals 2 damage to any target. If that target is a creature, scry 1.</text>
+    </card>
+    <card>
+      <name>CR12 Explosive Possibility</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>4RR</manacost>
+        <cost>4RR</cost>
+        <mana>4RR</mana>
+        <cmc>6</cmc>
+        <mv>6</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Explosive Possibility deals 5 damage divided as you choose among any number of target creatures and/or planeswalkers.
+You may sacrifice a land. If you do, draw two cards.</text>
+    </card>
+    <card>
+      <name>UZ06 Mining Village</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>At the beginning of your upkeep, each player draws a card, then discards a card.</text>
+    </card>
+    <card>
+      <name>UZ08 Maniacal Laboratory</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land Creature - Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If you would draw a card from an empty library, put seven +1/+1 counters on target creature instead.</text>
+    </card>
+    <card>
+      <name>UZ09 Energized Earth</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add CC. You can’t spend this mana to cast spells.</text>
+    </card>
+    <card>
+      <name>UZ10 Scoured Scourgelands</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Scoured Scourgelands enters tapped.
+{1}, {T}, Sacrifice Scoured Scourgelands: Search your library for a land card, put it onto the battlefield tapped, then shuffle.</text>
+    </card>
+    <card>
+      <name>CR13 Orb of Betrayal</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Orb of Betrayal enters, gain control of target creature until end of turn. Untap it.
+Creatures you control but don’t own have haste.
+4RR: Exile Orb of Betrayal, then return it to the battlefield under its owner’s control.</text>
+    </card>
+    <card>
+      <name>CR14 Worldchurn</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Cleave 4R (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)
+Destroy target land. Draw a card if it wasn’t basic. [Its controller searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles.]</text>
+    </card>
+    <card>
+      <name>CR15 Gibbering Prophecy</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice land, discard a card, or pay {U}.
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>CR16 Bloodthirsty Pitchfork</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Bloodthirsty Pitchfork enters, draw a card.
+Equipped creature gets +2/-2 and has menace.
+Equip—{R}, Pay 2 life.</text>
+    </card>
+    <card>
+      <name>CR17 Shields to Swords</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +1/+0 and gains first strike until end of turn.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>UR10 Liquimetal Plague</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>All permanents become artifacts in addition to their other types until end of turn.
+Creatures without flying can’t block this turn.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>CG03 Ferocious Elemental</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Enchantment Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Ferocious Elemental enters, if you control a creature with power 4 or greater, Ferocious Elemental fights target creature.</text>
+    </card>
+    <card>
+      <name>CG02 Burnish-Bush Viper</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Creature - Snake </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Burnish-Bush Viper gets +3/+1 as long as you control four or more differently named lands.</text>
+    </card>
+    <card>
+      <name>RC02 Vile Anticipation</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>3</manacost>
+        <cost>3</cost>
+        <mana>3</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Spells you cast have Ambush. The ambush cost is equal to their mana cost plus {H/U}. (You may cast those spells for their ambush costs as though they had flash.)</text>
+    </card>
+    <card>
+      <name>CG04 Nyxborn Woodling</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Enchantment Creature - Treefolk </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Affinity for enchantments (This spell costs {1} less to cast for each enchantment you control.)
+Trample</text>
+    </card>
+    <card>
+      <name>CG05 Earth-Pusher Mage</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Earth-Pusher Mage enters, sacrifice a land. Search your library for a land card, put it onto the battlefield tapped, then shuffle.</text>
+    </card>
+    <card>
+      <name>UB02 Minimalist Reassembler</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Artifact Creature - Zombie Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Minimalist Reassembler has haste as long as you control fewer permanents than each opponent.
+At the beginning of your end step, if Minimalist Reassembler is in your graveyard, you may sacrifice a permanent. If you do, return Minimalist Reassembler from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>MB01 Omnipotence</name>
+      <set rarity="mythic">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>7BBB</manacost>
+        <cost>7BBB</cost>
+        <mana>7BBB</mana>
+        <cmc>10</cmc>
+        <mv>10</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Once during each of your turns, you may cast a spell with mana value 9 or less from your sideboard without paying its mana cost.</text>
+    </card>
+    <card>
+      <name>MU01 Omniscience</name>
+      <set rarity="mythic">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>7UUU</manacost>
+        <cost>7UUU</cost>
+        <mana>7UUU</mana>
+        <cmc>10</cmc>
+        <mv>10</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may cast spells from your hand without paying their mana costs.</text>
+    </card>
+    <card>
+      <name>MG01 Omnipresence</name>
+      <set rarity="mythic">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>7GGG</manacost>
+        <cost>7GGG</cost>
+        <mana>7GGG</mana>
+        <cmc>10</cmc>
+        <mv>10</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may cast spells from your graveyard by discarding a land card or exiling a land card from your graveyard instead of paying their mana costs.</text>
+    </card>
+    <card>
+      <name>MR01 Omnichaos</name>
+      <set rarity="mythic">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>7RRR</manacost>
+        <cost>7RRR</cost>
+        <mana>7RRR</mana>
+        <cmc>10</cmc>
+        <mv>10</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Pay 1 life: Add RRRRRRR.</text>
+    </card>
+    <card>
+      <name>MW01 Omnitheos</name>
+      <set rarity="mythic">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>7WWW</manacost>
+        <cost>7WWW</cost>
+        <mana>7WWW</mana>
+        <cmc>10</cmc>
+        <mv>10</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may cast spells from the battlefield by sacrificing a nontoken permanent instead of paying their mana costs.</text>
+    </card>
+    <card>
+      <name>RW01 The Shield of History</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has “If you would create one or more tokens, instead create twice that many tokens.”
+Equip 2W</text>
+    </card>
+    <card>
+      <name>RU01 The Pan Flute of Ages</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has “If a permanent entering would cause a triggered ability you control to trigger, that ability triggers an additional time.”
+Equip 2U</text>
+    </card>
+    <card>
+      <name>RB01 The Crown of Doomsday</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has “If a permanent being sacrificed would cause a triggered ability of a permanent you control to trigger, that ability triggers an additional time.”
+Equip 2B</text>
+    </card>
+    <card>
+      <name>RR01 The Sword of Aeons</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has “If a permanent becoming the target of a spell or ability would cause a triggered ability of a permanent you control to trigger, that ability triggers an additional time.”
+Equip 2R</text>
+    </card>
+    <card>
+      <name>RG01 The Stave of Eternity</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has “If you would put one or more counters on a permanent or player, put twice that many counters on that permanent or player instead.”
+Equip 2G</text>
+    </card>
+    <card>
+      <name>CR19 Bestial Ritual</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Cleave—1R, Pay 2 life. (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)
+Add BRG. [Spend this mana only to cast creature spells.]</text>
+    </card>
+    <card>
+      <name>RU02 Odd Ritual</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Add CCC. The next spell you cast this turn costs {2} more to cast.</text>
+    </card>
+    <card>
+      <name>CG06 Size Sage</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Size Sage enters or dies, if you control a creature with power 4 or greater, draw a card.</text>
+    </card>
+    <card>
+      <name>CG07 Deep-Rot Predator</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>3G</manacost>
+        <cost>3G</cost>
+        <mana>3G</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Creature - Beast Horror </type>
+        <maintype>Creature</maintype>
+        <pt>5/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Deep-Rot Predator deals excess damage, mill that many cards.</text>
+    </card>
+    <card>
+      <name>CG08 Stalker of the Horizon</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>3G</manacost>
+        <cost>3G</cost>
+        <mana>3G</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Kicker 1G (You may pay an additional 1G as you cast this spell.)
+When Stalker of the Horizon enters, if it was kicked, return target land card from your graveyard to the battlefield tapped.
+Stalker of the Horizon gets +X/+X, where X is the number of differently named lands you control.</text>
+    </card>
+    <card>
+      <name>CG09 Nyxian Wilderwind</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>4G</manacost>
+        <cost>4G</cost>
+        <mana>4G</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Enchantment Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Affinity for enchantments (This spell costs {1} less to cast for each enchantment you control.)
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</text>
+    </card>
+    <card>
+      <name>CG11 Mirrorbark Woodling</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>6G</manacost>
+        <cost>6G</cost>
+        <mana>6G</mana>
+        <cmc>7</cmc>
+        <mv>7</mv>
+        <type>Creature - Treefolk </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Mirrorbark Woodling enters, create three Mirror tokens. (They’re artifacts with “Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)</text>
+    </card>
+    <card>
+      <name>CG10 Deep-Rot Wurm</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>5G</manacost>
+        <cost>5G</cost>
+        <mana>5G</mana>
+        <cmc>6</cmc>
+        <mv>6</mv>
+        <type>Creature - Wurm Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)</text>
+    </card>
+    <card>
+      <name>CG12 Defend the Title</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control fights target creature you don’t control. When it does, if your creature is still on the battlefield, it fights another target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>CG13 Ferocious Growth</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>When you cast this spell, if you control a creature with power 4 or greater, copy it. You may choose new targets for the copy.
+Target creatures gets +3/+3 until end of turn.</text>
+    </card>
+    <card>
+      <name>CG14 Bestial Intellect</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>3G</manacost>
+        <cost>3G</cost>
+        <mana>3G</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+2 and gains hexproof until end of turn.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>CG16 Remnants of Strength</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +2/+2.
+Unearth {0} ({0}: Return this card from your graveyard to the battlefield. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>CG17 Wilderwind Blast</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Counter target spell with flying.
+• Destroy target creature with flying.
+• Counter target spell that targets you or a permanent or spell you control.
+• Draw a card.</text>
+    </card>
+    <card>
+      <name>CG18 Uncover the Ruins</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a land card, put it onto the battlefield tapped, then shuffle. If it doesn’t have any mana abilities, draw a card.</text>
+    </card>
+    <card>
+      <name>CG19 Nature&apos;s Purge</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy up to one target artifact and up to one target enchantment.</text>
+    </card>
+    <card>
+      <name>CA02 Vexite Golem</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Vexite Golem enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>CA03 Mirrored Monolith</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>3</manacost>
+        <cost>3</cost>
+        <mana>3</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Mirrored Monolith enters, create a Mirror token. (It’s an artifact with “Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.”)
+{T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Wastes</name>
+      <set rarity="">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.</text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity="">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {W}.)</text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity="">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {U}.)</text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity="">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {B}.)</text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity="">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {R}.)</text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity="">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>({T}: Add {G}.)</text>
+    </card>
+    <card>
+      <name>RC03 Voidsunder Titan</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>7</manacost>
+        <cost>7</cost>
+        <mana>7</mana>
+        <cmc>7</cmc>
+        <mv>7</mv>
+        <type>Enchantment Creature - Giant </type>
+        <maintype>Creature</maintype>
+        <pt>6/5</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Voidsunder Titan enters, draw four cards.</text>
+    </card>
+    <card>
+      <name>UU09 Counteract</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>UU</manacost>
+        <cost>UU</cost>
+        <mana>UU</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell.
+Mill two cards.</text>
+    </card>
+    <card>
+      <name>UW10 Strength of Loyalty</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Strength of Loyalty enters, draw a card.
+Enchanted creature gets +1/+1.</text>
+    </card>
+    <card>
+      <name>UW03 Delivery Dove</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>1W</manacost>
+        <cost>1W</cost>
+        <mana>1W</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Delivery Dove enters, choose one —
+• Each player draws a card.
+• You gain life equal to the number of cards in target opponent’s hand.</text>
+    </card>
+    <card>
+      <name>RM13 Eternal Alliance</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>WB</colors>
+        <color>WB</color>
+        <manacost>1WB</manacost>
+        <cost>1WB</cost>
+        <mana>1WB</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Eternal Alliance enters, each player draws a card.
+If a spell or another ability would cause each player to draw a number of cards, each player draws twice that many cards and loses life equal to the amount of cards they drew this way instead.</text>
+    </card>
+    <card>
+      <name>UW05 Fatewoven Guardian</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, lifelink
+{W}, Sacrifice Fatewoven Guardian: Exile target creature, then return it to the battlefield under its owner’s control.</text>
+    </card>
+    <card>
+      <name>UW04 Friendly Blacksmith</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Creature - Human Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Affinity for creatures (This spell costs {1} less to cast for each creature you control.)
+You may activate abilities of Friendly Blacksmith as though it has haste.
+{T}: Put a +1/+1 counter on another target creature.</text>
+    </card>
+    <card>
+      <name>UW06 Automatic Warcaller</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>3W</manacost>
+        <cost>3W</cost>
+        <mana>3W</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Automatic Warcaller enters, create a 1/1 colorless Human creature token.
+Once each turn, if an artifact entering the battlefield would cause a triggered ability of a permanent you control to trigger, you may have that ability trigger an additional time.</text>
+    </card>
+    <card>
+      <name>UW02 Arbiter of Perfection</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Arbiter of Perfection enters, if an opponent controls more lands than you, conjure a card named Vex Opal into your hand.</text>
+    </card>
+    <card>
+      <name>UW07 Selfless Angel</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>4W</manacost>
+        <cost>4W</cost>
+        <mana>4W</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>4/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Other creatures you control get +0/+1.</text>
+    </card>
+    <card>
+      <name>UW08 Prismatic Giant</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>5W</manacost>
+        <cost>5W</cost>
+        <mana>5W</mana>
+        <cmc>6</cmc>
+        <mv>6</mv>
+        <type>Creature - Giant </type>
+        <maintype>Creature</maintype>
+        <pt>4/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Converge — When Prismatic Giant enters, exile target nonland permanent if its mana value is less than or equal to the number of colors of mana spent to cast Prismatic Giant.</text>
+    </card>
+    <card>
+      <name>UW11 Infinite Teachings</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>W</manacost>
+        <cost>W</cost>
+        <mana>W</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Sorcery - Lesson </type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player draws a card.
+Learn (you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)</text>
+    </card>
+    <card>
+      <name>UW09 Diligent Purge</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>3W</manacost>
+        <cost>3W</cost>
+        <mana>3W</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>For each player, exile target creature that player controls and target land that player controls.
+Channel — Discard Diligent Purge, {W}: Create a 1/1 colorless Human creature token.</text>
+    </card>
+    <card>
+      <name>UB10 History Repeats</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>BBB</manacost>
+        <cost>BBB</cost>
+        <mana>BBB</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, pay X life.
+Return X target creature cards from your graveyard to your hand.
+Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)</text>
+    </card>
+    <card>
+      <name>UW13 Physicality Tax</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>4W</manacost>
+        <cost>4W</cost>
+        <mana>4W</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Affinity for enchantments (This spell costs {1} less to cast for each enchantment you control.)
+Non-enchantment spells cost {1} more to cast.</text>
+    </card>
+    <card>
+      <name>UW12 Boisterous Anthem</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>4W</manacost>
+        <cost>4W</cost>
+        <mana>4W</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Affinity for creatures (This spell costs {1} less to cast for each creature you control.)
+Creatures you control get +1/+1.</text>
+    </card>
+    <card>
+      <name>UB11 Trace the Bloodline</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>XXB</manacost>
+        <cost>XXB</cost>
+        <mana>XXB</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Each opponent loses 1 life and you gain 1 life.
+You draw X cards and lose X life.
+Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)</text>
+    </card>
+    <card>
+      <name>CB12 Soulshock</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>BB</manacost>
+        <cost>BB</cost>
+        <mana>BB</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Soulshock deals 2 damage divided as you choose among up to two target creatures. You gain 2 life.</text>
+    </card>
+    <card>
+      <name>CG15 Confusing Quest</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>3GG</manacost>
+        <cost>3GG</cost>
+        <mana>3GG</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Cleave 1G (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)
+[Cascade] (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Look at the top five cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>RW03 Holy Betrayal</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>2WW</manacost>
+        <cost>2WW</cost>
+        <mana>2WW</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy all creatures. Investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this token: Draw a card.”)</text>
+    </card>
+    <card>
+      <name>MA02 Jewel of Repetition</name>
+      <set rarity="mythic">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>1</manacost>
+        <cost>1</cost>
+        <mana>1</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add one mana of any color. Activate only if you’ve cast two or more spells this turn.</text>
+    </card>
+    <card>
+      <name>UR02 Liberator of Perfection</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Artifact Creature - Construct Rebel </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Liberator of Perfection enters, conjure a card named Vex Opal into your hand.</text>
+    </card>
+    <card>
+      <name>RL02 Wretched Fields</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Wretched Fields enters tapped.
+When Wretched Fields enters, sacrifice two lands.
+{T}: Add CCC.</text>
+    </card>
+    <card>
+      <name>RL03 Vex Fields</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Vex Fields enters tapped.
+When Vex Fields enters, sacrifice two artifacts.
+{T}: Add two mana in any combination of colors.</text>
+    </card>
+    <card>
+      <name>RM15 Ruinous Decision</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>BG</colors>
+        <color>BG</color>
+        <manacost>1BG</manacost>
+        <cost>1BG</cost>
+        <mana>1BG</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Cleave 3R (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)
+Destroy target [non]land [permanent].</text>
+    </card>
+    <card>
+      <name>UU02 Negation Arcanite</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Enchantment Creature - Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Negation Arcanite enters, counter target noncreature spell.</text>
+    </card>
+    <card>
+      <name>UU01 History Regent</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>U</manacost>
+        <cost>U</cost>
+        <mana>U</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When History Regent enters, conjure a card named Vex Amber into your hand.
+H/UH/U, Sacrifice History Regent: Target historic permanent gains hexproof until end of turn. (Artifacts, legendaries, and Sagas are historic.)</text>
+    </card>
+    <card>
+      <name>UU03 Lively Powerstone</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>2U</manacost>
+        <cost>2U</cost>
+        <mana>2U</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Artifact Creature - Powerstone Golem </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Improvise (Your artifacts can help cast this spell. Each artifact you tap after you’re done activating mana abilities pays for {1}.)
+{T}: Add CC. You can’t spend this mana to cast nonartifact spells.</text>
+    </card>
+    <card>
+      <name>UU04 Worldmind Druid</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>3U</manacost>
+        <cost>3U</cost>
+        <mana>3U</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Landfall — Whenever a land you control enters, draw a card.</text>
+    </card>
+    <card>
+      <name>UU06 Illustrious Nobility</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U // U</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Aura  // Sorcery - Adventure </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +4/+2 and gains flying.
+--- 
+Create a 1/1 colorless Human creature token.</text>
+    </card>
+    <card>
+      <name>UU07 Portal Winder</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>6U</manacost>
+        <cost>6U</cost>
+        <mana>6U</mana>
+        <cmc>7</cmc>
+        <mv>7</mv>
+        <type>Creature - Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Affinity for Portals (This spell costs {1} less to cast for each Portal you control.)
+When Portal Winder enters, untap each land token you control.</text>
+    </card>
+    <card>
+      <name>UG02 Sage of Portals</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If an ability of a Portal you control would trigger, you may have that ability trigger an additional time.</text>
+    </card>
+    <card>
+      <name>UU08 Rotting Ingenuity</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>3U</manacost>
+        <cost>3U</cost>
+        <mana>3U</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Dredge 4 (If you would draw a card, you may mill four cards instead. If you do, return this card from your graveyard to your hand.)
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>UU11 Geared Up</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>1U</manacost>
+        <cost>1U</cost>
+        <mana>1U</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Geared Up enters, scry 2.
+Enchanted creature gets +1/+1 for each permanent attached to it.</text>
+    </card>
+    <card>
+      <name>UU12 Greatness on Strings</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>3UU</manacost>
+        <cost>3UU</cost>
+        <mana>3UU</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+You control enchanted creature.
+Enchanted creature gets +1/+1 for each +1/+1 counter on Greatness on Strings.
+{2}: Put a +1/+1 counter on Greatness on Strings.</text>
+    </card>
+    <card>
+      <name>UU13 Rewinding Clock</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>4U</manacost>
+        <cost>4U</cost>
+        <mana>4U</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Untap all artifacts you control during each other player’s untap step.
+{T}: Add {U}.</text>
+    </card>
+    <card>
+      <name>CL02 Haven of Prophecy</name>
+      <set rarity="common">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Land</type>
+        <maintype>Land</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+Any time you could mulligan and Haven of Prophecy is in your hand, you may exile Haven of Prophecy from your hand and lose 2 life, then take a free mulligan.</text>
+    </card>
+    <card>
+      <name>UB04 Infected Crow</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>2B</manacost>
+        <cost>2B</cost>
+        <mana>2B</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, wither (This deals damage to creatures in the form of -1/-1 counters.)
+Channel — {B}, Discard Infected Crow: Create a 1/1 colorless Human creature token. Put a wither counter on it.</text>
+    </card>
+    <card>
+      <name>UB05 Darkspeed Rider</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>3B</manacost>
+        <cost>3B</cost>
+        <mana>3B</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Dash 2B (You may cast this spell for its dash cost. If you do, it gains haste, and it’s returned from the battlefield to its owner’s hand at the beginning of the next end step.)
+Deathtouch
+{T}: Draw a card. You lose 1 life.</text>
+    </card>
+    <card>
+      <name>UB03 Collecter of Destruction</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Creature - Avatar Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+{1}, Sacrifice Collecter of Destruction: Draw a card for each card type among permanents you’ve sacrificed this turn. You lose life equal to the amount of cards drawn this way. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>UB06 Voice of Reanimation</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>4B</manacost>
+        <cost>4B</cost>
+        <mana>4B</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Enchantment Creature - Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Madness {0} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+Voice of Reanimation enters with three +1/+1 counters if it was cast from your hand.
+7B, Sacrifice Voice of Reanimation: Return target creature card from your graveyard to the battlefield tapped. This ability costs {X} less to activate, where X is Voice of Reanimation’s power.</text>
+    </card>
+    <card>
+      <name>UB07 Rotmight Goliath</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>5B</manacost>
+        <cost>5B</cost>
+        <mana>5B</mana>
+        <cmc>6</cmc>
+        <mv>6</mv>
+        <type>Creature - Giant Horror </type>
+        <maintype>Creature</maintype>
+        <pt>7/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Rotmight Goliath costs {1} less to cast for each card type among permanents you’ve sacrificed this turn.
+Menace</text>
+    </card>
+    <card>
+      <name>RM11 Dissipation Slash</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>UB</colors>
+        <color>UB</color>
+        <manacost>1UB</manacost>
+        <cost>1UB</cost>
+        <mana>1UB</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target noncreature spell.
+Destroy target creature.</text>
+    </card>
+    <card>
+      <name>UB08 Lifeforce Funneling</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>3B</manacost>
+        <cost>3B</cost>
+        <mana>3B</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Lifelink
+Choose one —
+• Lifeforce Funneling deals 1 damage to each creature.
+• Lifeforce Funneling deals 3 damage to target creature.</text>
+    </card>
+    <card>
+      <name>UB09 Gibbering Tutor</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>1B</manacost>
+        <cost>1B</cost>
+        <mana>1B</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, discard a card.
+Search your library for a card, put that card into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>RW05 Unburial Festival</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost>2W</manacost>
+        <cost>2W</cost>
+        <mana>2W</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Cleave 3WB (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)
+Return target permanent card in your graveyard [that was put there from the battlefield this turn] to the battlefield.
+You may cast Unburial Festival from your graveyard for its cleave cost. If you do, exile it as it resolves.</text>
+    </card>
+    <card>
+      <name>UB12 Visions of Ruin</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>3B</manacost>
+        <cost>3B</cost>
+        <mana>3B</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Surveil 20, then shuffle. (To surveil 20, look at the top twenty cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>UB13 Macabre Will</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost>B</manacost>
+        <cost>B</cost>
+        <mana>B</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may exile two black cards from your graveyard rather than pay this spell’s mana cost.
+Choose one —
+• Remove all counters from target permanent.
+• Exile up to two cards from graveyards.
+• Each opponent discards a card.</text>
+    </card>
+    <card>
+      <name>UR01 Vexian Hatchling</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+    </card>
+    <card>
+      <name>MC01 Mirrored Fracturing</name>
+      <set rarity="mythic">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>1</manacost>
+        <cost>1</cost>
+        <mana>1</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As Mirrored Fracturing enters, choose a card type.
+The “legend rule” doesn’t apply to permanents you control of the chosen type.
+{6}, Sacrifice a legendary permanent of the chosen type: Create two tokens that are copies of it.</text>
+    </card>
+    <card>
+      <name>UR03 Favored of Ezeria</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Creature - Human Berserker </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Madness {R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)
+Haste
+Whenever Favored of Ezeria deals combat damage to a player, you may discard up to that many cards. When you do, draw that many cards.</text>
+    </card>
+    <card>
+      <name>UR04 Burning-Bush Flameblade</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Creature - Human Berserker </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+3R, Sacrifice a land: Until end of turn, target creature gets +4/+0 and gains “Whenever this creature deals combat damage to a creature, it deals 2 damage to each player. Activate only outside of combat.</text>
+    </card>
+    <card>
+      <name>RM12 Exterrestrial Stomper</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>RG</colors>
+        <color>RG</color>
+        <manacost>1RG</manacost>
+        <cost>1RG</cost>
+        <mana>1RG</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Exterrestrial Stomper attacks, create a Lander token. (It’s an artifact with “{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.”)
+{T}, Sacrifice a land: Exile the top two cards of your library. You may play them this turn.</text>
+    </card>
+    <card>
+      <name>UR05 Dualhammerarm</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>3R</manacost>
+        <cost>3R</cost>
+        <mana>3R</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Double strike</text>
+    </card>
+    <card>
+      <name>UR06 Replacer Beast</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>3R</manacost>
+        <cost>3R</cost>
+        <mana>3R</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As a creature you control leaves the battlefield, you may cast Replacer Beast from your hand.
+Trample</text>
+    </card>
+    <card>
+      <name>UR07 Wary Thug</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>4R</manacost>
+        <cost>4R</cost>
+        <mana>4R</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1R: Exile Wary Thug. Return it to the battlefield at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>UR08 Burning-Bush Flames</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Burning-Bush Flames deals 2 damage target creature. If there are four or more differently named lands among lands you control, Burning-Bush Flames deals 4 damage to the targeted creature instead.</text>
+    </card>
+    <card>
+      <name>UR09 Pyrospasm</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Pyrospasm deals 2 damage to each creature.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>UR11 Molded Spellcraft</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Copy target artifact or sorcery spell.</text>
+    </card>
+    <card>
+      <name>UR12 Stare Down Death</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, target creature gets +2/+0 and gains “When this creature dies, it deals damage equal to its power to any target.”</text>
+    </card>
+    <card>
+      <name>RR03 Burning-Bush Moon</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Nonbasic lands are Mountains.
+{5}: Burning-Bush Moon’s controller sacrifices it. Any player may activate this ability.</text>
+    </card>
+    <card>
+      <name>UR13 Soul Tremors</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>1R</manacost>
+        <cost>1R</cost>
+        <mana>1R</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control leaves the battlefield, Soul Tremors deals 1 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>UG01 Nyxborn Viper</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Enchantment Creature - Snake </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+When Nyxborn Viper dies, if you control a creature with power 4 or greater, draw a card.</text>
+    </card>
+    <card>
+      <name>RA01 Creation of Madness</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>3</manacost>
+        <cost>3</cost>
+        <mana>3</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Creation of Madness enters, draw a card.
+{2}, Discard a card: Creation of Madness deals 2 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>UG03 Burning-Bush Dreadmawling</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Creature - Dinosaur </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Burning-Bush Dreadmawling gets +3/+3 as long as you control six or more differently named lands.</text>
+    </card>
+    <card>
+      <name>UG04 Nyxian Windrunner</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>3G</manacost>
+        <cost>3G</cost>
+        <mana>3G</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Enchantment Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>4/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Affinity for enchantments (This spell costs {1} less to cast for each enchantment you control.)
+Dash 2G (You may cast this spell for its dash cost. If you do, it gains haste, and it’s returned from the battlefield to its owner’s hand at the beginning of the next end step.)
+When Nyxian Windrunner deals combat damage to a player, conjure a card named Wilderwind Blast into your hand.</text>
+    </card>
+    <card>
+      <name>UG08 Rotting Hermit</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>6G</manacost>
+        <cost>6G</cost>
+        <mana>6G</mana>
+        <cmc>7</cmc>
+        <mv>7</mv>
+        <type>Creature - Human Horror Druid </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Delirium — As long as their are four or more card types among cards in your graveyard, Rotting Hermit gets +4/+3 and gains trample.
+Cycling 1G (1G, Discard this card: Draw a card.)
+Dredge 3 (If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)</text>
+    </card>
+    <card>
+      <name>UG05 Bestial Arcanite</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>3G</manacost>
+        <cost>3G</cost>
+        <mana>3G</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Creature - Wizard Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Reach
+When Bestial Arcanite enters, another target creature you control fights target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>UG06 Burning-Bush Woodling</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>4G</manacost>
+        <cost>4G</cost>
+        <mana>4G</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Creature - Treefolk </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a land you control enters, if you control seven or more differently named lands, create a token that’s a copy of that land.</text>
+    </card>
+    <card>
+      <name>UG07 Nyxborn Titan</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>5G</manacost>
+        <cost>5G</cost>
+        <mana>5G</mana>
+        <cmc>6</cmc>
+        <mv>6</mv>
+        <type>Enchantment Creature - Giant </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Affinity for enchantments (This spell costs {1} less to cast for each enchantment you control.)
+Vigilance
+Cycling 1G (1G, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>UG09 Multiverse Mapping</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>3G</manacost>
+        <cost>3G</cost>
+        <mana>3G</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for up to two basic land cards and/or land cards with one or more nonbasic land types, put them onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>UG10 Planned Resurgence</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>1G</manacost>
+        <cost>1G</cost>
+        <mana>1G</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Plot—Discard a card, pay 2 life. (You may discard a card and pay 2 life and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)
+Return target card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>UG11 Strength of Death and Life</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +2/+2.</text>
+    </card>
+    <card>
+      <name>RR04 Aeon Whisperer</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>R</manacost>
+        <cost>R</cost>
+        <mana>R</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Creature - Transmortal Human Bard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever a creature you control becomes the target of a spell or ability, that creature gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>RU03 Aeon Minds</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>3U</manacost>
+        <cost>3U</cost>
+        <mana>3U</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Aeon Minds enters and whenever a creature you control becomes the target of a spell or ability, draw a card.</text>
+    </card>
+    <card>
+      <name>UG12 Doublemight</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>2G</manacost>
+        <cost>2G</cost>
+        <mana>2G</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Double target creature’s power and toughness until end of turn.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>UG13 Ferocity Stone</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors>G</colors>
+        <color>G</color>
+        <manacost>G</manacost>
+        <cost>G</cost>
+        <mana>G</mana>
+        <cmc>1</cmc>
+        <mv>1</mv>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{4}, {T}: Target creature gets +4/+4 and gains trample until end of turn. This ability costs {X} less to activate, where X is the greatest power among creatures you control.</text>
+    </card>
+    <card>
+      <name>UC02 Voidslay</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>2/C2/C2/C2/C</manacost>
+        <cost>2/C2/C2/C2/C</cost>
+        <mana>2/C2/C2/C2/C</mana>
+        <cmc>8</cmc>
+        <mv>8</mv>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature.</text>
+    </card>
+    <card>
+      <name>UA01 Maddened Vexling</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>0</manacost>
+        <cost>0</cost>
+        <mana>0</mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Madness {0} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
+    </card>
+    <card>
+      <name>UC01 Delirious Nyxling</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>0</manacost>
+        <cost>0</cost>
+        <mana>0</mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Enchantment Creature - Spawn </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Delirium — Delirious Nyxling gets +2/+1 as long as there are four or more card types among cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>UA02 Data Drone</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>5</manacost>
+        <cost>5</cost>
+        <mana>5</mana>
+        <cmc>5</cmc>
+        <mv>5</mv>
+        <type>Artifact Creature - Thopter </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+When Data Drone enters, draw a card.</text>
+    </card>
+    <card>
+      <name>UA03 Powerstone Transport</name>
+      <set rarity="uncommon">SHD</set>
+      <prop>
+        <colors></colors>
+        <color></color>
+        <manacost>2</manacost>
+        <cost>2</cost>
+        <mana>2</mana>
+        <cmc>2</cmc>
+        <mv>2</mv>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {C}.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>RR05 Scrap Deinfuser</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost>2R</manacost>
+        <cost>2R</cost>
+        <mana>2R</mana>
+        <cmc>3</cmc>
+        <mv>3</mv>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever an artifact you control leaves the battlefield, add one mana of any color.</text>
+    </card>
+    <card>
+      <name>RU04 Verstil, Scrap Scholar</name>
+      <set rarity="rare">SHD</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost>3U</manacost>
+        <cost>3U</cost>
+        <mana>3U</mana>
+        <cmc>4</cmc>
+        <mv>4</mv>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+        <notes></notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+When Verstil, Scrap Scholar enters, surveil 4. (Look at the top four cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+{T}: Choose target artifact card in your graveyard. You may play that card this turn. (You still pay its costs. Timing rules still apply.)</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Once More [Conjured] SHD</name>
+      <set>SHD</set>
+      <prop>
+        <colors>U</colors>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes>!token
+!related MU02 Returned Master&lt;conjure></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target instant or sorcery spell gains rebound. (If you cast that spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast that card from exile without paying its mana cost.)</text>
+      <token>1</token>
+      <reverse-related persistent="persistent">MU02 Returned Master</reverse-related>
+    </card>
+    <card>
+      <name>Vex Opal [Conjured] SHD</name>
+      <set>SHD</set>
+      <prop>
+        <colors></colors>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes>!token
+!related UW02 Arbiter of Perfection&lt;conjure>;UR02 Liberator of Perfection&lt;conjure>;MA01 The Vexenvault&lt;conjure></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add one mana of any color. Activate only if you control four or more artifacts.</text>
+      <token>1</token>
+      <reverse-related persistent="persistent">UW02 Arbiter of Perfection</reverse-related>
+      <reverse-related persistent="persistent">UR02 Liberator of Perfection</reverse-related>
+      <reverse-related persistent="persistent">MA01 The Vexenvault</reverse-related>
+    </card>
+    <card>
+      <name>Vex Amber [Conjured] SHD</name>
+      <set>SHD</set>
+      <prop>
+        <colors></colors>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes>!token
+!related UU01 History Regent&lt;conjure>;MA01 The Vexenvault&lt;conjure></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add one mana of any color among legendary permanents you control.</text>
+      <token>1</token>
+      <reverse-related persistent="persistent">UU01 History Regent</reverse-related>
+      <reverse-related persistent="persistent">MA01 The Vexenvault</reverse-related>
+    </card>
+    <card>
+      <name>Vex Jasper [Conjured] SHD</name>
+      <set>SHD</set>
+      <prop>
+        <colors></colors>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+        <notes>!token
+!related CU19 Timely Vigil&lt;conjure>;MA01 The Vexenvault&lt;conjure></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Behold a Dragon: Add one mana of any color among the beheld card or permanent’s colors. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)</text>
+      <token>1</token>
+      <reverse-related persistent="persistent">CU19 Timely Vigil</reverse-related>
+      <reverse-related persistent="persistent">MA01 The Vexenvault</reverse-related>
+    </card>
+    <card>
+      <name>Human [Token] SHD</name>
+      <set>SHD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+        <notes>!related CW01 Village Traditions;CW09 Friendly Bartender;CW14 Cease Conflict;UW06 Automatic Warcaller;UW09 Diligent Purge;UU06 Illustrious Nobility;CB19 Soul Relic;UB03 Infected Crow;CR18 Tears of War</notes>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>CW01 Village Traditions</reverse-related>
+      <reverse-related>CW09 Friendly Bartender</reverse-related>
+      <reverse-related>CW14 Cease Conflict</reverse-related>
+      <reverse-related>UW06 Automatic Warcaller</reverse-related>
+      <reverse-related>UW09 Diligent Purge</reverse-related>
+      <reverse-related>UU06 Illustrious Nobility</reverse-related>
+      <reverse-related>CB19 Soul Relic</reverse-related>
+      <reverse-related>UB03 Infected Crow</reverse-related>
+      <reverse-related>CR18 Tears of War</reverse-related>
+    </card>
+    <card>
+      <name>Food [Token] SHD</name>
+      <set>SHD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Food </type>
+        <maintype>Artifact</maintype>
+        <notes>!related CW02 Forceful Inspector</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+      <token>1</token>
+      <reverse-related>CW02 Forceful Inspector</reverse-related>
+    </card>
+    <card>
+      <name>Shard [Token] SHD</name>
+      <set>SHD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Enchantment - Shard </type>
+        <maintype>Enchantment</maintype>
+        <notes>!related CW10 Fragment Caretaker;CW12 Data Titan;CB08 Mournful Feline;CB11 Shatter Flesh</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, Sacrifice this enchantment: Scry 1, then draw a card.</text>
+      <token>1</token>
+      <reverse-related>CW10 Fragment Caretaker</reverse-related>
+      <reverse-related>CW12 Data Titan</reverse-related>
+      <reverse-related>CB08 Mournful Feline</reverse-related>
+      <reverse-related>CB11 Shatter Flesh</reverse-related>
+    </card>
+    <card>
+      <name>Mirror [Token] SHD</name>
+      <set>SHD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Mirror </type>
+        <maintype>Artifact</maintype>
+        <notes>!related CU05 Mirror Keeper;CU08 Runic Savant;CU11 Steal Reflections;CB01 Shimmerfang Vermin;CB05 Earth Shatterer;CB07 Mournful Canine;CB17 Disputed Diplomacy;CB19 Soul Relic;UB01 Tithe Slayer;CR02 Mirror Thief;CR09 Meltedbrain Troll;CG11 Mirrorbark Woodling;CA03 Mirrored Monolith</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sacrifice this artifact: Untap target permanent. Activate only as a sorcery.</text>
+      <token>1</token>
+      <reverse-related>CU05 Mirror Keeper</reverse-related>
+      <reverse-related>CU08 Runic Savant</reverse-related>
+      <reverse-related>CU11 Steal Reflections</reverse-related>
+      <reverse-related>CB01 Shimmerfang Vermin</reverse-related>
+      <reverse-related>CB05 Earth Shatterer</reverse-related>
+      <reverse-related>CB07 Mournful Canine</reverse-related>
+      <reverse-related>CB17 Disputed Diplomacy</reverse-related>
+      <reverse-related>CB19 Soul Relic</reverse-related>
+      <reverse-related>UB01 Tithe Slayer</reverse-related>
+      <reverse-related>CR02 Mirror Thief</reverse-related>
+      <reverse-related>CR09 Meltedbrain Troll</reverse-related>
+      <reverse-related>CG11 Mirrorbark Woodling</reverse-related>
+      <reverse-related>CA03 Mirrored Monolith</reverse-related>
+    </card>
+    <card>
+      <name>Sorcerer [Role Token] SHD</name>
+      <set>SHD</set>
+      <prop>
+        <colors></colors>
+        <type>Token Enchantment - Aura Role </type>
+        <maintype>Enchantment</maintype>
+        <notes>!related CU06 Wizard Elitist</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +1/+1 and has “Whenever this creature attacks, scry 1.”</text>
+      <token>1</token>
+      <reverse-related>CU06 Wizard Elitist</reverse-related>
+    </card>
+    <card>
+      <name>Wilderwind Blast [Conjured] SHD</name>
+      <set>SHD</set>
+      <prop>
+        <colors>G</colors>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+        <notes>!token
+!related UG04 Nyxian Windrunner&lt;conjure></notes>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Counter target spell with flying.
+• Destroy target creature with flying.
+• Counter target spell that targets you or a permanent or spell you control.
+• Draw a card.</text>
+      <token>1</token>
+      <reverse-related persistent="persistent">UG04 Nyxian Windrunner</reverse-related>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
